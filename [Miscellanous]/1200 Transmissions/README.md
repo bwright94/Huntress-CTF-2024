@@ -1,3 +1,5 @@
+![1200-transmissions-ss1.png](1200-transmissions-ss1.png)
+
 # 1200 Transmissions: Miscellaneous  
 
 Author: @daveAThuntress  
