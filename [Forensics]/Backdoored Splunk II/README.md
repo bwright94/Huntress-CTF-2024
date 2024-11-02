@@ -1,3 +1,5 @@
+![backdoored-splunk-2-ss1.png](backdoored-splunk-2-ss1.png)
+
 Backdoored Splunk II -- Forensics
 Author: Adam Rice (@adam.huntress)
 
