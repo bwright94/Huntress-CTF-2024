@@ -1,22 +1,22 @@
-Ancient Fossil - Forensics
+Ancient Fossil - Forensics  
 
-Author: @JohnHammond
+Author: @JohnHammond  
 
-All things are lost to time...
+All things are lost to time...  
 
-Download the file(s) below.
-Attachments: 
+Download the file(s) below.  
+Attachments:   
 
-ancient.fossil
+ancient.fossil  
 
 
 
-At first I thought the file was just a normal .SQLITE file according to Detect-It-Easy, so I opened it in an SQLite Viewer but was quickly overwhelmed.
-Noticed lots of base64 encoding, tried decoding but all unreadable.
-A Google search of "fossil" and "sqlite" reveals the proper method.
+At first I thought the file was just a normal .SQLITE file according to Detect-It-Easy, so I opened it in an SQLite Viewer but was quickly overwhelmed.  
+Noticed lots of base64 encoding, tried decoding but all unreadable.  
+A Google search of "fossil" and "sqlite" reveals the proper method.  
 
-$ sudo apt install fossil
-$ fossil open ancient.fossil
+$ sudo apt install fossil  
+$ fossil open ancient.fossil  
 
 ```
 └─$ fossil timeline       
@@ -29,22 +29,22 @@ $ fossil open ancient.fossil
 --- line limit (20) reached ---
 ```
 
-There are many commits, could potentially contain an encoded flag.
-Try moving through each commit manually, notice some do contain files.
-Both filename and file content as base64 encoded.
-Assume this is true for all possible files.
+There are many commits, could potentially contain an encoded flag.  
+Try moving through each commit manually, notice some do contain files.  
+Both filename and file content as base64 encoded.  
+Assume this is true for all possible files.  
 
-We can write a script to automatically decode base64 from every available file, moving through each commit.
-Also tried a script to decode the base64 filenames instead, but this didn't lead anywhere.
+We can write a script to automatically decode base64 from every available file, moving through each commit.  
+Also tried a script to decode the base64 filenames instead, but this didn't lead anywhere.  
 
-Focusing on decoding the base64 content of every file:
+Focusing on decoding the base64 content of every file:  
 
-Use fossil timeline -n 0 to show every line (403 commits)
+Use fossil timeline -n 0 to show every line (403 commits)  
 
-$ fossil time -n 0 | cut -d " " -f2 | tac > fossil_commits.txt
-Cleaned up in text editor.
+$ fossil time -n 0 | cut -d " " -f2 | tac > fossil_commits.txt  
+Cleaned up in text editor.  
 
-List of commits to iterate through:
+List of commits to iterate through:  
 ```
 a6df33fb5e
 47fcb20ec9
@@ -53,8 +53,8 @@ a6df33fb5e
 e410648e20
 ```
 
-Final solve script: fossil_auto_contents_solve.py
-Iterates through list, decoding base64 contents.
+Final solve script: fossil_auto_contents_solve.py  
+Iterates through list, decoding base64 contents.  
 
 ```
 [...]
@@ -84,9 +84,9 @@ Traceback (most recent call last):
 UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 2: invalid start byte
 ```
 
-Error occurs on one file because the content is already plaintext.
+Error occurs on one file because the content is already plaintext.  
 
-$ cat NDQwMDE1MDZlY2ViMWJmZjRlNjI2M2M4OTU5YjBlMzUK            
+> $ cat NDQwMDE1MDZlY2ViMWJmZjRlNjI2M2M4OTU5YjBlMzUK              
 > flag{2ed33f365669ea9f10b1a4ea4566fe8c}
 
 In hindsight, you can just iterate through every commit and cat the files since the flag was in plaintext.
