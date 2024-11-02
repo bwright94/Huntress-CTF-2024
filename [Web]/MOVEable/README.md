@@ -1,3 +1,5 @@
+![moveable-ss1.png](moveable-ss1.png)
+
 # moveable_solve.py
 
 ```
