@@ -22,7 +22,7 @@ Send a phishing email
 > $ telnet challenge.ctf.games [port]  
 
 > used telnet because netcat was broken  
-```
+```bash
 Trying 35.193.148.143...
 Connected to challenge.ctf.games.
 Escape character is '^]'.
