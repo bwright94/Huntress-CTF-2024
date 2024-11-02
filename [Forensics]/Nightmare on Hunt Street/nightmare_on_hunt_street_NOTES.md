@@ -21,7 +21,7 @@ Authors: Austin Worline, Jose Oregon, and Adrian Garcia
 
 > 2.	"32"          # Sort by time, count number of "Logon" event failures that occur before the first "Special Logon" aka successful attempt
 
-> 3.	"psexec"      # took 50+ guesses until psexec.py from Impacket: notice powershell is used, notice 8-char .exe names like "wgWMRHln" and "MrEQbpfX" are created
+> 3.	"psexec"      # Took 50+ guesses until psexec.py from Impacket: notice powershell is used, notice 8-char .exe names like "wgWMRHln" and "MrEQbpfX" are created
 
 > 4.	"3"           # Export log to text file, filter by "Process Command Line", search "net ", count unique net commands: "user", "localgroup", and "share"
 
