@@ -1,6 +1,7 @@
 ![helpfuldesk-ss1.png](helpfuldesk-ss1.png)
 
-HelpfulDesk - Web  
+# HelpfulDesk: Web  
+
 Author: @HuskyHacks  
 
 HelpfulDesk is the go-to solution for small and medium businesses who need remote monitoring and management. Last night, HelpfulDesk released a security bulletin urging everyone to patch to the latest patch level. They were scarce on the details, but I bet that can't be good...  
@@ -18,9 +19,11 @@ examine files, find differences using HashMyFiles
 
 ![source_hash_diff.png](./screenshots/source_hash_diff.png)
 
+```
 HelpfulDesk-1.0.dll  
 HelpfulDesk-1.1.dll  
-HelpfulDesk-1.2.dll  
+HelpfulDesk-1.2.dll
+```
 
 focus on current version (1.1) and patched version (1.2) dlls  
 
@@ -30,14 +33,16 @@ find differences using HashMyFiles
 
 ![exports_hash_diff.png](./screenshots/exports_hash_diff.png)
 
+```
 AuthenticationServices.cs  
 SecurityController.cs  
-SetupController.cs  
+SetupController.cs
+```
 
 review differences in code for each file between both versions  
 
 > HelpfulDesk_(1.1)\HelpfulDesk\Controllers\SetupController.cs  
-```
+```c#
 		// Token: 0x060000F9 RID: 249 RVA: 0x000041E0 File Offset: 0x000023E0
 		public IActionResult SetupWizard()
 		{
@@ -59,7 +64,7 @@ review differences in code for each file between both versions
 ```
 
 > HelpfulDesk_(1.2)\HelpfulDesk\Controllers\SetupController.cs
-```
+```c#
 		// Token: 0x060000F9 RID: 249 RVA: 0x000041AC File Offset: 0x000023AC
 		public IActionResult SetupWizard()
 		{
