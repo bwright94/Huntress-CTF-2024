@@ -1,2 +1,2 @@
-- ✅ [rsa_decrypt](./`dump/Strive%20Marish%20Leadman%20TypeCDR)
-- ✅ [No Need For Brutus](./`dump/No%20Need%20For%20Brutus)
+- ✅ [rsa_decrypt](../`dump/Strive%20Marish%20Leadman%20TypeCDR)
+- ✅ [No Need For Brutus](../`dump/No%20Need%20For%20Brutus)
