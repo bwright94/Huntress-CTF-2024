@@ -1,3 +1,5 @@
+![time-will-tell-ss1.png](time-will-tell-ss1.png)
+
 # Time will tell: Miscellaneous  
 
 Author: @aenygma  
@@ -14,7 +16,7 @@ Attachments:
 ```app.py```  
 
 ## SOLUTION:  
-write a python script using pwntools to connect to the server and conduct a timing attack.  
+#### Write a python script using pwntools to connect to the server and conduct a timing attack.  
 
 password is 8 hex chars  
 we can brute force guesses starting from length 1, and whenever the server 'lags', it can be interpreted as a hit on a correct password guess.  
@@ -37,25 +39,25 @@ this optimization skips unnecessary guesses to achieve the final sub-90-second s
 
 some code cleanup required to get consistent and accurate deltas (send empty guesses, adjust delta based on pw pos)  
 
-also added multiple guess attempts averaging to a single delta, to mitigate false positives, but only needed max 2 attempts per guess.  
+also added multiple guess attempts averaging to a single delta, to mitigate false positives, but only needed max 2 attempts per guess in the end.  
 
 example idealized guess sequence (pw len = 3):  
 ```
-try:	delta:
-000		0.0
-100		0.0
-200		0.0
-300		0.0
-400		0.0
-500		0.1
+try:     delta:
+000       0.0
+100       0.0
+200       0.0
+300       0.0
+400       0.0
+500       0.1
 > accept guess 5
-500		0.0
-510		0.0
-520	    0.0
-530  	0.1
+500       0.0
+510       0.0
+520       0.0
+530       0.1
 > accept guess 53
-530		0.0
-531 	0.1
+530       0.0
+531       0.1
 > accept guess 531
 ...
 > final password guess: 531
