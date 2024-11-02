@@ -15,50 +15,50 @@ https://huntress.ctf.games/
 - ✅ [matryoshkaQR](./`dump/MatryoshkaQR)
 - ✅ [base64by32](./`dump/Base64by32)
 - ✅ [too_many_bits](./`dump/Too%20Many%20Bits)
-- ✅ [strange_calc]()
+- ✅ [strange_calc](./[Malware]/Strange%20Calc)
 
 ### Wednesday, October 2, 2024
 - ✅ [No Need For Brutus](./`dump/No%20Need%20For%20Brutus)
-- ✅ [Red Phish Blue Phish]()
+- ✅ [Red Phish Blue Phish](./[Miscellanous]/Red%20Phish%20Blue%20Phish)
 
 ### Thursday, October 3, 2024
 - ✅ [cattle](./`dump/Cattle)
-- ✅ [Nightmare on Hunt Street (Bundle)]()
-- ✅ [russian_roulette]()
+- ✅ [Nightmare on Hunt Street (Bundle)](./[Forensics]/Nightmare%20on%20Hunt%20Street)
+- ✅ [russian_roulette](./[Malware]/Russian%20Roulette)
 
 ### Friday, October 4, 2024
 - ✅ [whamazon](./`dump/Whamazon)
-- ✅ [malibu]()
+- ✅ [malibu](./[Miscellanous]/Malibu)
 
 ### Saturday, October 5, 2024
 - ✅ [unbelievable](./`dump/Unbelievable)
-- ✅ [ocean_locust]()
+- ✅ [ocean_locust](./[Reverse%20Engineering]/Ocean%20Locust)
 
 ### Sunday, October 6, 2024
-- ✅ [txt_message]()
-- ✅ [discount_programming_devices]()
+- ✅ [txt_message](./[Warmups]/TXT%20Message)
+- ✅ [discount_programming_devices](./[Malware]/Discount%20Programming%20Devices)
 
 ### Monday, October 7, 2024
 - ✅ [mimi](./`dump/Mimi)
-- ✅ [system_code]()
+- ✅ [system_code](./[Miscellanous]/System%20Code)
 
 ### Tuesday, October 8, 2024
 - ✅ [zimmer_down](./`dump/Zimmer%20Down)
 - ✅ [ran_somewhere](./`dump/Ran%20Somewhere)
 - ✅ [base_p](./`dump/Base-p-)
-- ✅ [mystery]()
+- ✅ [mystery](./[Warmups]/Mystery)
 
 ### Wednesday, October 9, 2024
-- ✅ [GoCrackMe1]()
-- ✅ [i_cant_ssh]()
+- ✅ [GoCrackMe1](./[Reverse%20Engineering]/GoCrackMe1)
+- ✅ [i_cant_ssh](./[Warmups]/I%20Can't%20SSH)
 
 ### Thursday, October 10, 2024
-- ✅ [GoCrackMe2]()
+- ✅ [GoCrackMe2](./[Reverse%20Engineering]/GoCrackMe2)
 - ✅ [finders_fee](./`dump/Finder's%20Fee)
 
 ### Friday, October 11, 2024
 - [GoCrackMe3](./`dump/GoCrackMe3)
-- ✅ [typo]()
+- ✅ [typo](./[Warmups]/Typo)
 
 ### Saturday, October 12, 2024
 - ✅ [x-ray](./`dump/X-Ray)
@@ -73,25 +73,25 @@ https://huntress.ctf.games/
 - ✅ [HiddenStreams](./`dump/Hidden%20Streams)
 
 ### Tuesday, October 15, 2024
-- ✅ [sekiro]()
-- ✅ [transmissions]()
+- ✅ [sekiro](./[Miscellanous]/Sekiro)
+- ✅ [transmissions](./[Miscellanous]/1200%20Transmissions)
 
 ### Wednesday, October 16, 2024
-- ✅ [echo_chamber]()
+- ✅ [echo_chamber](./[Scripting]/Echo%20Chamber)
     
 ### Thursday, October 17, 2024
-- ✅ [linux_basics]()
-- ✅ [the_void]()
-- ✅ [moveable]()
-- ✅ [baby buffer overflow]()
+- ✅ [linux_basics](./[Miscellanous]/Linux%20Basics)
+- ✅ [the_void](./[Warmups]/The%20Void)
+- ✅ [moveable](./[Web]/MOVEable)
+- ✅ [baby buffer overflow](./[Binary%20Exploitation]/Baby%20Buf%20Ov%20-%20x32)
 
 ### Friday, October 18, 2024
 - [eepy](./`dump/Eepy)
 - [permission_to_proxy](./`dump/Permission%20to%20Proxy)
 
 ### Saturday, October 19, 2024
-- ✅ [stack_it]()
-- ✅ [eco_friendly]()
+- ✅ [stack_it](./[Reverse%20Engineering]/Stack%20It)
+- ✅ [eco_friendly](./[Malware]/Eco%20Friendly)
 
 ### Sunday, October 20, 2024
 - ✅ [y2j](./`dump/Y2J)
@@ -99,19 +99,19 @@ https://huntress.ctf.games/
 
 ### Monday, October 21, 2024
 - ✅ [rsa_decrypt](./`dump/Strive%20Marish%20Leadman%20TypeCDR)
-- ✅ [helpfuldesk]()
+- ✅ [helpfuldesk](./[Web]/HelpfulDesk)
 
 ### Tuesday, October 22, 2024
 - [rustline](./`dump/Rustline)
-- ✅ [plantopia]()
+- ✅ [plantopia](./[Web]/Plantopia)
 
 ### Wednesday, October 23, 2024
-- ✅ [ping_me]()
-- ✅ [time_will_tell]()
+- ✅ [ping_me](./[Malware]/Ping%20Me)
+- ✅ [time_will_tell](./[Miscellanous]/Time%20Will%20Tell)
 
 ### Thursday, October 24, 2024
-- ✅ [knights_quest]()
-- ✅ [ancient_fossil]()
+- ✅ [knights_quest](./[Reverse%20Engineering]/Knight's%20Quest)
+- ✅ [ancient_fossil](./[Forensics]/Ancient%20Fossil)
 
 ### Friday, October 25, 2024
 - [pillow_fight](./`dump/PillowFight)
@@ -133,4 +133,4 @@ https://huntress.ctf.games/
 - [zippy](./`dump/Zippy)
 
 ### Thursday, October 31, 2024
-- ✅ [Palimpsest]()
+- ✅ [Palimpsest](./[Malware]/Palimpsest)
