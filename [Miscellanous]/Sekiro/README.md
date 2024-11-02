@@ -1,10 +1,10 @@
+![sekiro-ss1.png](sekiro-ss1.png)
+
 # Sekiro: Miscellaneous
 
 Author: @HuskyHacks  
 
 お前はもう死んでいる  |  "Omae Wa Mou Shindeiru"  
-
-#### Beat the game and win the flag, but enter the wrong input or respond too slow, and you lose!  
 
 ```
 ⠀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -49,6 +49,8 @@ Your move: block
 
 You have been disconnected. Goodbye.
 ```
+
+#### Beat the game and win the flag, but enter the wrong input or respond too slow, and you lose!  
 
 ## sekiro_solve.py  
 
@@ -108,7 +110,7 @@ if __name__ == "__main__":
     interact_with_server()
 ```
 
-> $ python3 sekiro_solve.py (simplified output)  
+> $ python3 sekiro_solve.py (w/ simplified output)  
 ```
 Connected to challenge.ctf.games:32403
 Server:
@@ -133,7 +135,7 @@ Server:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ------ 鼠が、網 一匹. いや、その眼…飢えた狼か... ------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Server:
+Server:
 Server:
 Server:
 Opponent move: strike
