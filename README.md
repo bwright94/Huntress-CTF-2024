@@ -10,128 +10,127 @@ https://huntress.ctf.games/
 ## Challenge Release Schedule:  
 
 ### Tuesday, October 1, 2024
-- read_the_rules
-- technical_support
-- more_challenges_tomorrow
-- matryoshkaQR
-- base64by32
-- too_many_bits
-- strange_calc
+- ✅ [read_the_rules](./`dump/Read%20The%20Rules)
+- ✅ [technical_support](./`dump/`extra/technical-support-ss1.png)
+- ✅ [matryoshkaQR](./`dump/MatryoshkaQR)
+- ✅ [base64by32](./`dump/Base64by32)
+- ✅ [too_many_bits](./`dump/Too%20Many%20Bits)
+- ✅ [strange_calc]()
 
 ### Wednesday, October 2, 2024
-- No Need For Brutus
-- Red Phish Blue Phish
+- ✅ [No Need For Brutus](./`dump/No%20Need%20For%20Brutus)
+- ✅ [Red Phish Blue Phish]()
 
 ### Thursday, October 3, 2024
-- cattle
-- Nightmare on Hunt Street (Bundle)
-- russian_roulette
+- ✅ [cattle](./`dump/Cattle)
+- ✅ [Nightmare on Hunt Street (Bundle)]()
+- ✅ [russian_roulette]()
 
 ### Friday, October 4, 2024
-- whamazon
-- malibu
+- ✅ [whamazon](./`dump/Whamazon)
+- ✅ [malibu]()
 
 ### Saturday, October 5, 2024
-- unbelievable
-- ocean_locust
+- ✅ [unbelievable](./`dump/Unbelievable)
+- ✅ [ocean_locust]()
 
 ### Sunday, October 6, 2024
-- txt_message
-- discount_programming_devices
+- ✅ [txt_message]()
+- ✅ [discount_programming_devices]()
 
 ### Monday, October 7, 2024
-- mimi
-- system_code
+- ✅ [mimi](./`dump/Mimi)
+- ✅ [system_code]()
 
 ### Tuesday, October 8, 2024
-- zimmer_down
-- ran_somewhere
-- base_p
-- mystery
+- ✅ [zimmer_down](./`dump/Zimmer%20Down)
+- ✅ [ran_somewhere](./`dump/Ran%20Somewhere)
+- ✅ [base_p](./`dump/Base-p-)
+- ✅ [mystery]()
 
 ### Wednesday, October 9, 2024
-- GoCrackMe1
-- i_cant_ssh
+- ✅ [GoCrackMe1]()
+- ✅ [i_cant_ssh]()
 
 ### Thursday, October 10, 2024
-- GoCrackMe2
-- finders_fee
+- ✅ [GoCrackMe2]()
+- ✅ [finders_fee](./`dump/Finder's%20Fee)
 
 ### Friday, October 11, 2024
-- GoCrackMe3
-- typo
+- [GoCrackMe3](./`dump/GoCrackMe3)
+- ✅ [typo]()
 
 ### Saturday, October 12, 2024
-- x-ray
-- zulu
+- ✅ [x-ray](./`dump/X-Ray)
+- ✅ [zulu](./`dump/Zulu)
 
 ### Sunday, October 13, 2024
-- ObfuscationStation
-- Little Shop Of Hashes (Bundle)
+- ✅ [ObfuscationStation](./`dump/Obfuscation%20Station)
+- ✅ [Little Shop Of Hashes (Bundle)](./`dump/Little%20Shop%20of%20Hashes)
 
 ### Monday, October 14, 2024
-- keyboard_junkie
-- HiddenStreams
+- ✅ [keyboard_junkie](./`dump/Keyboard%20Junkie)
+- ✅ [HiddenStreams](./`dump/Hidden%20Streams)
 
 ### Tuesday, October 15, 2024
-- sekiro
-- transmissions
+- ✅ [sekiro]()
+- ✅ [transmissions]()
 
 ### Wednesday, October 16, 2024
-- echo_chamber
+- ✅ [echo_chamber]()
     
 ### Thursday, October 17, 2024
-- linux_basics
-- the_void
-- moveable
-- baby buffer overflow
+- ✅ [linux_basics]()
+- ✅ [the_void]()
+- ✅ [moveable]()
+- ✅ [baby buffer overflow]()
 
 ### Friday, October 18, 2024
-- eepy
-- permission_to_proxy
+- [eepy](./`dump/Eepy)
+- [permission_to_proxy](./`dump/Permission%20to%20Proxy)
 
 ### Saturday, October 19, 2024
-- stack_it
-- eco_friendly
+- ✅ [stack_it]()
+- ✅ [eco_friendly]()
 
 ### Sunday, October 20, 2024
-- y2j
-- splunk_ii
+- ✅ [y2j](./`dump/Y2J)
+- ✅ [splunk_ii](./[Forensics]/Backdoored%20Splunk%20II)
 
 ### Monday, October 21, 2024
-- rsa_decrypt
-- helpfuldesk
+- ✅ [rsa_decrypt](./`dump/Strive%20Marish%20Leadman%20TypeCDR)
+- ✅ [helpfuldesk]()
 
 ### Tuesday, October 22, 2024
-- rustline
-- plantopia
+- [rustline](./`dump/Rustline)
+- ✅ [plantopia]()
 
 ### Wednesday, October 23, 2024
-- ping_me
-- time_will_tell
+- ✅ [ping_me]()
+- ✅ [time_will_tell]()
 
 ### Thursday, October 24, 2024
-- knights_quest
-- ancient_fossil
+- ✅ [knights_quest]()
+- ✅ [ancient_fossil]()
 
 ### Friday, October 25, 2024
-- pillow_fight
-- feedback
+- [pillow_fight](./`dump/PillowFight)
+- ✅ [feedback](./`dump/`extra/feedback-ss1.png)
 
 ### Saturday, October 26, 2024
-- thats_life
+- [thats_life](./`dump/That's%20Life)
 
 ### Sunday, October 27, 2024
-- revenge_of_dpd
+- [revenge_of_dpd](./`dump/Revenge%20of%20Discount%20Programming%20Devices)
 
 ### Monday, October 28, 2024
-- rusty_bin
+- [rusty_bin](./`dump/Rusty%20Bin)
 
 ### Tuesday, October 29, 2024
-- in_plain_sight
+- [in_plain_sight](./`dump/In%20Plain%20Sight)
 
 ### Wednesday, October 30, 2024
-- zippy
+- [zippy](./`dump/Zippy)
 
 ### Thursday, October 31, 2024
-- Palimpsest
+- ✅ [Palimpsest]()
