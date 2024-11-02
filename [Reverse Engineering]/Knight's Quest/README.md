@@ -1,8 +1,12 @@
+![knights-quest-ss1.png](knights-quest-ss1.png)
+
 Knight's Quest - Reverse Engineering
 
 Author: @HuskyHacks
 
 An adventurer is YOU! Play Knight's Quest, beat the three monsters, and claim the flag! Very straightforward with no surprises, no sir-ee, no surprises here lmao
+
+![knights-quest-ss2.png](knights-quest-ss2.png)
 
 ```
 Knight's Quest
