@@ -1,5 +1,7 @@
 ![txt-message-ss1.png](txt-message-ss1.png)
 
+# TXT Message: Warmups  
+
 Look up the DNS records for ctf.games  
 
 > https://mxtoolbox.com/SuperTool.aspx?action=txt%3actf.games&run=toolpage  
