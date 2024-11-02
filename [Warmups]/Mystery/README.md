@@ -1,5 +1,9 @@
+![mystery-ss1.png](mystery-ss1.png)
+
 Decode Enigma Machine:
 > https://cryptii.com/pipes/enigma-machine
+
+![mystery-ss2.png](mystery-ss2.png)
 
 ```
 rkenr wozec gtrfl obbur bfgma fkgyq ctkvq zeucz hlvwx yyzat zbvns kgyyd sthmi vsifc ovexl zzdqv slyir nwqoj igxuu kdqgr fdbbd njppc mujyy wwcoy
