@@ -15,10 +15,8 @@ Attachments: GoCrackMe2.zip
 GoCrackMe2      -- ELF64, written in Go, 1294KB  
 ```
 
-## Write-up by v_17  
-> Solved on Kali Linux  
-
-Run program. Learned that it prints to console a piece of the flag, randomly selecting from a set of three unique pieces:  
+#### Run program. 
+Learned that it prints to console a piece of the flag, randomly selecting from a set of three unique pieces:  
 
 ```
 $ ./GoCrackMe2  
@@ -37,7 +35,7 @@ No easy strings, time to review the main logic!
 
 Searched for print calls in main, found "fmt_Fprintln" and "runtime_concatstring2".  
 
-```
+```assembly
 loc_4882BF:
 movups  [rsp+288h+var_1C8], xmm15
 mov     rax, rdx
@@ -57,7 +55,7 @@ pop     rbp
 retn
 ```
 
-```
+```assembly
 loc_4882A2:
 mov     rdi, [rax]
 mov     rsi, [rax+8]
@@ -70,7 +68,7 @@ jmp     short loc_48824D
 
 The surrounding logic looks like concatstring is used to put pieces of the flag together, and this happens 5 times before println is used to print the final flag to the console.
 
-```
+```assembly
 loc_488260:
 cmp     rax, 5
 jge     short loc_4882BF
@@ -80,7 +78,7 @@ Tried negating some conditional jumps (jz->jnz), similarly to the GoCrackMe1 sol
 
 Followed the logic further backwards from the print logic and noticed a few hardcoded hex values being loaded:  
 
-```
+```assembly
 loc_487E69:
 * imul    rdx, rbx, 3B9ACA00h *
 * and     ecx, 3FFFFFFFh *
@@ -99,7 +97,7 @@ jmp     short loc_488132
 
 Reviewed paths and found that these values pass through other logic before eventually reaching the print. The other logic includes an unusual looped function that seems to apply a XOR operation on some values using the hex key "6D" then passes them towards the print.  
 
-```
+```assembly
 loc_488324:
 cmp     rbx, rcx
 jl      short loc_488316
@@ -127,7 +125,7 @@ It seemed like a stretch, but I threw the values I found into CyberChef with a X
 
 Here, I recognized the "4232" from the original provided flag piece "flag{f75087857fc4d2324" and realized the decoding was reversed, so I added that step into CyberChef, gathered the rest of the hex values, and continued the process (discarding the first 3 unreadables):  
 
-```
+```assembly
 loc_487E69:
 imul    rdx, rbx, 3B9ACA00h
 and     ecx, 3FFFFFFFh
@@ -175,7 +173,7 @@ jmp     short loc_488132
 > 1dc09666087875ff390751}lag{ffc4d232457
 ```
 
-> Added spacing to the output for clarity.  
+> Added spacing to the output for clarity:  
 
 ```
 1dc09666
