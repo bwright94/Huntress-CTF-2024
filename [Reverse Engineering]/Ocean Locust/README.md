@@ -1,3 +1,5 @@
+![oceanlocust-ss1.png](oceanlocust-ss1.png)
+
 # OceanLocust: Reverse Engineering
 
 Author: @JohnHammond
