@@ -1,9 +1,9 @@
 # Huntress-CTF-2024
 #### This repository serves as the Solution Archive for Team UMGC in Huntress CTF 2024, written by v_17
 
-<img src="https://github.com/user-attachments/assets/e7471bb3-fd62-4e26-b648-5905f6bc94d9" width="400" height="320">  
+<img src="./`dump/`extra/huntress-ctf-2024-homepage.png" width="400" height="320">  
 
-<img src="https://github.com/user-attachments/assets/78cfd0f8-a924-4fbd-9d7e-badac363f302" width="497" height="280">  
+<img src="./`dump/`extra/UMGC_Huntress CTF 2024 CERTIFICATE.png" width="497" height="280">  
 
 https://huntress.ctf.games/ 
 
