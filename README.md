@@ -1,5 +1,5 @@
 # Huntress-CTF-2024
-#### This repository serves as the Solution Archive for Team UMGC in Huntress CTF 2024, written by v_17
+#### This repository serves as the Solution Archive for Team UMGC in Huntress CTF 2024, written by Brandon Wright (v_17)
 
 <img src="./`dump/`extra/huntress-ctf-2024-homepage.png" width="400" height="320">  
 
