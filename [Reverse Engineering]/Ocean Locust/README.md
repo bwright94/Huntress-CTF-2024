@@ -8,7 +8,7 @@ Wow-ee zow-ee!! Some advanced persistent threats have been doing some tricks wit
 
 We thought we would try our hand at it too.
 
-NOTE: this challenge includes a debug build of the binary used to craft the image, as well as a release build... so you may choose to go an easier route or a harder route ;)
+```NOTE: this challenge includes a debug build of the binary used to craft the image, as well as a release build... so you may choose to go an easier route or a harder route ;)```
 
 Download the file(s) below.  
 Attachments: ocean_locust.7z
@@ -18,9 +18,6 @@ inconspicuous.png         -- PNG image, 7KB
 png-challenge-debug.exe   -- Windows exe, 466KB  
 png-challenge.exe         -- Windows exe, 183KB  
 ```
-
-## Write-up by v_17
-> Solved on Windows 10 FlareVM  
 
 First, I started off by trying to run the programs.  
 
