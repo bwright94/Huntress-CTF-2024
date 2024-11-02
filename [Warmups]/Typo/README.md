@@ -1,5 +1,7 @@
 ![typo-ss1.png](typo-ss1.png)
 
+# Typo: Warmups  
+
 Connect through SSH, prevents you from access by automatically running sl (Steam Locomotive)  
 
 Simply append "/bin/bash" to open a shell before sl is ran.  
