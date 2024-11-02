@@ -59,9 +59,9 @@ Messages:
 [attack/defend] > 
 ```
 
-Play game through terminal locally.
-Gameplay is 'attack' or 'defend' and there are only 3 levels ending with an 'impossible' final boss.
-Goal for this challenge is to modify the code to beat the boss, obtain the password, and get the flag.
+Play game through terminal locally.  
+Gameplay is 'attack' or 'defend' and there are only 3 levels ending with an 'impossible' final boss.  
+Goal for this challenge is to modify the code to beat the boss, obtain the password, and get the flag.  
 
 ```
 +--------------------------------------------------------------------------------+
@@ -83,20 +83,20 @@ Messages:
 [attack/defend] > 
 ```
 
-Open IDA Free or Ghidra.
-Find logic that deals with what happens after player inputs 'attack' or 'defend'.
-See knightsquest_round_playerTurn.
+Open IDA Free or Ghidra.  
+Find logic that deals with what happens after player inputs 'attack' or 'defend'.  
+See knightsquest_round_playerTurn.  
 
-Logic to determine what happens next after player action depends on a single line:
-> jg     loc_498093 ; jump if greater than
-Will jump to further round logic or to "You have defeated" function.
+Logic to determine what happens next after player action depends on a single line:  
+> jg     loc_498093 ; jump if greater than  
+Will jump to further round logic or to "You have defeated" function.  
 
-Patch line to:
-> jle    loc_498093 ; jump if less than or eq
-Force the jump directly to "You have defeated" regardless of player input.
+Patch line to:  
+> jle    loc_498093 ; jump if less than or eq  
+Force the jump directly to "You have defeated" regardless of player input.  
 
-Assemble the patch and play game again.
-Beat every enemy instantly, and pw is granted after the boss.
+Assemble the patch and play game again.  
+Beat every enemy instantly, and password is granted after the boss.  
 
 ```
 +--------------------------------------------------------------------------------+
@@ -119,7 +119,7 @@ Your flag submission password is: hmafgAhAalqmQABBOAZtP3OWFegsQDAB
 Press enter to exit the game...
 ```
 
-Send pw to the server according to instructions for the flag.
+Send password to the server according to instructions for the flag.  
 
 ```
 $ curl -X POST -H "Content-Type: application/json" -d '{"password":"hmafgAhAalqmQABBOAZtP3OWFegsQDAB"}' http://challenge.ctf.games:32344//submit 
