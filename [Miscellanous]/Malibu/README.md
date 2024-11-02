@@ -1,3 +1,5 @@
+![malibu-ss1.png](malibu-ss1.png)
+
 # Malibu: Miscellaneous  
 
 Author: Truman Kain  
