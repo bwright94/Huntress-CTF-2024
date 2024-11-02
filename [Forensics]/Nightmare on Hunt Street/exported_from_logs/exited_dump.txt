@@ -1,0 +1,5208 @@
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xdd0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x4d4
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbcc
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15a0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x548
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x164c
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x624
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe38
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1108
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x6b8
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18b0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b04
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11e0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x13a0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1450
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x99c
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17ec
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1484
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x8f4
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x12c8
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x12c4
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1334
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x5a0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x83c
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1090
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a58
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc94
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1874
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b8
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x6bc
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1878
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1780
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1100
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1288
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11c0
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa30
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17fc
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11d4
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd7c
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x908
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15e8
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9a8
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a98
+	Process Name:	C:\Windows\SysWOW64\wevtutil.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1608
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe90
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe84
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x185c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbf8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x113c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1864
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a80
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe88
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x8fc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x109c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xed0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3ec
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x730
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x148c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x840
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x954
+	Process Name:	C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x19f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9e4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x20
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x10ec
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1658
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17d4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1048
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x123c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16d8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd48
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb6c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xf74
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1074
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xea4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1480
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc5c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1254
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xce4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1434
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x6cc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa30
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x99c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1778
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x131c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1120
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1194
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b40
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1bac
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1604
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd50
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b68
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1824
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1228
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1860
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd74
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17f4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16bc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x310
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x5b0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc60
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1470
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9c0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xaf4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x35c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1344
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a44
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1204
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:05	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x610
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x102c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11c8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a1c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16ac
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd8c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbec
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16c8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9e4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x19f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1bc8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xfdc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1650
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b80
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x142c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x13f8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1364
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1384
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1460
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb20
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x7bc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc54
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xf74
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b0c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17f8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x874
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1480
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1254
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14e8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17ec
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xdfc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa30
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x131c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a08
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1194
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1108
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x8a0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1604
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa28
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1bac
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b90
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1acc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15c0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x690
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x180
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1860
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe90
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x784
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x167c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x10cc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1220
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1040
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x310
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbf8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a60
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x120
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18c0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3d0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x102c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1750
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1728
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe58
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x680
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd04
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x740
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1278
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xec0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1930
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x108c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x28c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x158c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3fc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1118
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x730
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1230
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16fc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14fc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15a8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1658
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18c4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3e8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15d8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1744
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x4cc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x548
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbcc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15e0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1480
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1870
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a4c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1378
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x12d0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11c4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1240
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1954
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9b8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x328
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd7c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a08
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xea8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x17ac
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x10e0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b28
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x570
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x554
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1180
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1934
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa30
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1100
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1690
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xcfc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x170c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1ae4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a60
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x10b8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa1c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x120
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18c0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14d0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x2a4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc58
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a70
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1208
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x113c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x26c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x149c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18e4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe2c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b9c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x35c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1818
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1784
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1204
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x106c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xae8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14a4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xba0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1750
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15e4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x6b4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b48
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9e4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x108c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x177c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xca0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18d8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc50
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x954
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1970
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a38
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1118
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1714
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x13f8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1348
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x173c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xcf4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15c8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x163c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x142c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1460
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa48
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xcd0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb20
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1940
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11b8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b0c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x874
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb08
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x12e0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x12c8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1254
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x19d8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a24
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1404
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x13b8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x107c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1860
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a10
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16f8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe64
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18fc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbf8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1ac4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a3c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x122c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb88
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x19c4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xce0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd50
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x934
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15bc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x60c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xabc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b04
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x19e8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xdc0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x179c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa30
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1194
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x117c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1970
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1788
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x868
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1278
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x102c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3ec
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xae8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1728
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14bc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x35c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa60
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x12d8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1760
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1930
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe58
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb00
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1344
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14e0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x778
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x438
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14ac
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1490
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15ac
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x10a0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3d4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x7c4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x19c0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1798
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x90c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1144
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b6c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd68
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x13b0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xf64
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1474
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1404
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x107c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xc0c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11f8
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18a0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x4e4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x7cc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1178
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1954
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x15a0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xd24
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xf5c
+	Process Name:	C:\Windows\System32\taskhostw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1870
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x136c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1950
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1428
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x554
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbd4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xcfc
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x874
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1408
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xa18
+	Process Name:	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x900
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1170
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+	Exit Status:	0x800710E0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1510
+	Process Name:	C:\Windows\System32\conhost.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1808
+	Process Name:	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x288
+	Process Name:	C:\Windows\System32\conhost.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x60c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x179c
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x13f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a14
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x11b4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b04
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1af4
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x5a0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x3d0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x10e0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x18f0
+	Process Name:	C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1af8
+	Process Name:	C:\Windows\System32\taskhostw.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:06	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b28
+	Process Name:	C:\Windows\System32\conhost.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		S-1-5-21-3792037069-2078677046-3387239386-500
+	Account Name:		Administrator
+	Account Domain:		EC2AMAZ-0TD157D
+	Logon ID:		0x126AFB
+
+Process Information:
+	Process ID:	0x18f4
+	Process Name:	C:\Windows\System32\smartscreen.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xeb0
+	Process Name:	C:\Windows\SysWOW64\whoami.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14e0
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1864
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x26c
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1220
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xaf4
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xe2c
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1938
+	Process Name:	C:\Windows\System32\svchost.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x9d0
+	Process Name:	C:\Windows\SysWOW64\systeminfo.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x868
+	Process Name:	C:\Windows\SysWOW64\NETSTAT.EXE
+	Exit Status:	0x0"
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x102c
+	Process Name:	C:\Windows\SysWOW64\ARP.EXE
+	Exit Status:	0x0"
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14a4
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0xFFFFFFFF"
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1b70
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0xFFFFFFFF"
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1644
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0xFFFFFFFF"
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x158c
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0xFFFFFFFF"
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		LOCAL SERVICE
+	Account Name:		LOCAL SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E5
+
+Process Information:
+	Process ID:	0x1964
+	Process Name:	C:\Windows\SysWOW64\wbem\WmiPrvSE.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xb38
+	Process Name:	C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.20348.2641_none_b1b79208f997d2fd\TiWorker.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xec0
+	Process Name:	C:\Windows\servicing\TrustedInstaller.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16ec
+	Process Name:	C:\Windows\System32\conhost.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x16bc
+	Process Name:	C:\Windows\SysWOW64\cmd.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x920
+	Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xac4
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x950
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xbe8
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x4dc
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x8ec
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1a4c
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x628
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1364
+	Process Name:	C:\Windows\SysWOW64\net1.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xfdc
+	Process Name:	C:\Windows\MrEQbpfX.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x108c
+	Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1650
+	Process Name:	C:\Windows\System32\conhost.exe
+	Exit Status:	0x0"

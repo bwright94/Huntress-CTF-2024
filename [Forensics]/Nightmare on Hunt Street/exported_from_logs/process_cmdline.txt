@@ -1,0 +1,648 @@
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x1864
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x14e0
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1  user
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x14e0
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x16bc
+	Creator Process Name:	C:\Windows\SysWOW64\cmd.exe
+	Process Command Line:	net  user
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14e0
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x1220
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x16bc
+	Creator Process Name:	C:\Windows\SysWOW64\cmd.exe
+	Process Command Line:	net  localgroup
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x26c
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x1220
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1  localgroup
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x1220
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0xaf4
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x16bc
+	Creator Process Name:	C:\Windows\SysWOW64\cmd.exe
+	Process Command Line:	net  share
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0xe2c
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0xaf4
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1  share
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:08	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0xaf4
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x14a4
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x16bc
+	Creator Process Name:	C:\Windows\SysWOW64\cmd.exe
+	Process Command Line:	net  user susan_admin ""SusanIsStrong123"" /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x1b70
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x14a4
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1  user susan_admin ""SusanIsStrong123"" /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:09	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x14a4
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0xFFFFFFFF"
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x1644
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x158c
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1 user susan_admin SusanIsStrong123 /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x158c
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x920
+	Creator Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Process Command Line:	""C:\Windows\system32\net.exe"" user susan_admin SusanIsStrong123 /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:10	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x158c
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0xFFFFFFFF"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x950
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x108c
+	Creator Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Process Command Line:	""C:\Windows\system32\net.exe"" user
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0xac4
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x950
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1 user
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x950
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x1"
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x4dc
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x108c
+	Creator Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Process Command Line:	""C:\Windows\system32\net.exe"" user susan_admin Susan123! /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0xbe8
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x4dc
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1 user susan_admin Susan123! /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:11	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x4dc
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x8ec
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x108c
+	Creator Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Process Command Line:	""C:\Windows\system32\net.exe"" localgroup administrators susan_admin /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x1a4c
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x8ec
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1 localgroup administrators susan_admin /ADD
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x8ec
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x0"
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x1364
+	New Process Name:	C:\Windows\SysWOW64\net1.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x628
+	Creator Process Name:	C:\Windows\SysWOW64\net.exe
+	Process Command Line:	C:\Windows\system32\net1 users
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4688	Process Creation	"A new process has been created.
+
+Creator Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x628
+	New Process Name:	C:\Windows\SysWOW64\net.exe
+	Token Elevation Type:	%%1936
+	Mandatory Label:		Mandatory Label\System Mandatory Level
+	Creator Process ID:	0x108c
+	Creator Process Name:	C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+	Process Command Line:	""C:\Windows\system32\net.exe"" users
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+Information	9/24/2024 14:12	Microsoft-Windows-Security-Auditing	4689	Process Termination	"A process has exited.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		EC2AMAZ-0TD157D$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Process Information:
+	Process ID:	0x628
+	Process Name:	C:\Windows\SysWOW64\net.exe
+	Exit Status:	0x1"
