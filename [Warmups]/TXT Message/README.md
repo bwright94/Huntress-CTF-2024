@@ -1,3 +1,5 @@
+![txt-message-ss1.png](txt-message-ss1.png)
+
 Look up the DNS records for ctf.games  
 
 > https://mxtoolbox.com/SuperTool.aspx?action=txt%3actf.games&run=toolpage  
