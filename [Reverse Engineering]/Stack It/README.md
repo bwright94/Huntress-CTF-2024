@@ -1,7 +1,9 @@
 ![stack-it-ss1.png](stack-it-ss1.png)
 
+# Stack It: Reverse Engineering  
+
 Solve by opening a disassembler, setting a breakpoint, and viewing the registers.  
-```
+```assembly
 .data:0804A02E unk_804A02E db  31h ; 1 ; DATA XREF: start+29↑o
 .data:0804A02F db  65h ; e
 .data:0804A030 db  63h ; c
@@ -37,7 +39,7 @@ Solve by opening a disassembler, setting a breakpoint, and viewing the registers
 .data:0804A04D _data ends
 ``` 
 
-Or, use strings:   
+Or, by using strings.   
 ```
 $ strings stack_it.bin
 Hello, World!
