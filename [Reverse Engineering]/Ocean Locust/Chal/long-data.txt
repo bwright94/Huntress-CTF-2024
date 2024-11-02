@@ -1,0 +1,1446 @@
+.rdata:0000000140066938 off_140066938   dq offset aLibraryCoreSrc_3
+.rdata:0000000140066938                                         ; DATA XREF: sub_140059380:loc_14005947A↑o
+.rdata:0000000140066938                                         ; "library\\core\\src\\unicode\\printable."...
+.rdata:0000000140066940                 db  25h ; %
+.rdata:0000000140066941                 db    0
+.rdata:0000000140066942                 db    0
+.rdata:0000000140066943                 db    0
+.rdata:0000000140066944                 db    0
+.rdata:0000000140066945                 db    0
+.rdata:0000000140066946                 db    0
+.rdata:0000000140066947                 db    0
+.rdata:0000000140066948                 db  1Ah
+.rdata:0000000140066949                 db    0
+.rdata:000000014006694A                 db    0
+.rdata:000000014006694B                 db    0
+.rdata:000000014006694C                 db  36h ; 6
+.rdata:000000014006694D                 db    0
+.rdata:000000014006694E                 db    0
+.rdata:000000014006694F                 db    0
+.rdata:0000000140066950 off_140066950   dq offset aLibraryCoreSrc_3
+.rdata:0000000140066950                                         ; DATA XREF: sub_140059380:loc_140059486↑o
+.rdata:0000000140066950                                         ; sub_140059380:loc_140059498↑o
+.rdata:0000000140066950                                         ; "library\\core\\src\\unicode\\printable."...
+.rdata:0000000140066958                 db  25h ; %
+.rdata:0000000140066959                 db    0
+.rdata:000000014006695A                 db    0
+.rdata:000000014006695B                 db    0
+.rdata:000000014006695C                 db    0
+.rdata:000000014006695D                 db    0
+.rdata:000000014006695E                 db    0
+.rdata:000000014006695F                 db    0
+.rdata:0000000140066960                 db  0Ah
+.rdata:0000000140066961                 db    0
+.rdata:0000000140066962                 db    0
+.rdata:0000000140066963                 db    0
+.rdata:0000000140066964                 db  2Bh ; +
+.rdata:0000000140066965                 db    0
+.rdata:0000000140066966                 db    0
+.rdata:0000000140066967                 db    0
+.rdata:0000000140066968 unk_140066968   db    0                 ; DATA XREF: sub_1400594B0+80↑o
+.rdata:0000000140066969                 db    6
+.rdata:000000014006696A                 db    1
+.rdata:000000014006696B                 db    1
+.rdata:000000014006696C                 db    3
+.rdata:000000014006696D                 db    1
+.rdata:000000014006696E                 db    4
+.rdata:000000014006696F                 db    2
+.rdata:0000000140066970                 db    5
+.rdata:0000000140066971                 db    7
+.rdata:0000000140066972                 db    7
+.rdata:0000000140066973                 db    2
+.rdata:0000000140066974                 db    8
+.rdata:0000000140066975                 db    8
+.rdata:0000000140066976                 db    9
+.rdata:0000000140066977                 db    2
+.rdata:0000000140066978                 db  0Ah
+.rdata:0000000140066979                 db    5
+.rdata:000000014006697A                 db  0Bh
+.rdata:000000014006697B                 db    2
+.rdata:000000014006697C                 db  0Eh
+.rdata:000000014006697D                 db    4
+.rdata:000000014006697E                 db  10h
+.rdata:000000014006697F                 db    1
+.rdata:0000000140066980                 db  11h
+.rdata:0000000140066981                 db    2
+.rdata:0000000140066982                 db  12h
+.rdata:0000000140066983                 db    5
+.rdata:0000000140066984                 db  13h
+.rdata:0000000140066985                 db  11h
+.rdata:0000000140066986                 db  14h
+.rdata:0000000140066987                 db    1
+.rdata:0000000140066988                 db  15h
+.rdata:0000000140066989                 db    2
+.rdata:000000014006698A                 db  17h
+.rdata:000000014006698B                 db    2
+.rdata:000000014006698C                 db  19h
+.rdata:000000014006698D                 db  0Dh
+.rdata:000000014006698E                 db  1Ch
+.rdata:000000014006698F                 db    5
+.rdata:0000000140066990                 db  1Dh
+.rdata:0000000140066991                 db    8
+.rdata:0000000140066992                 db  1Fh
+.rdata:0000000140066993                 db    1
+.rdata:0000000140066994                 db  24h ; $
+.rdata:0000000140066995                 db    1
+.rdata:0000000140066996                 db  6Ah ; j
+.rdata:0000000140066997                 db    4
+.rdata:0000000140066998                 db  6Bh ; k
+.rdata:0000000140066999                 db    2
+.rdata:000000014006699A                 db 0AFh
+.rdata:000000014006699B                 db    3
+.rdata:000000014006699C                 db 0B1h
+.rdata:000000014006699D                 db    2
+.rdata:000000014006699E                 db 0BCh
+.rdata:000000014006699F                 db    2
+.rdata:00000001400669A0                 db 0CFh
+.rdata:00000001400669A1                 db    2
+.rdata:00000001400669A2                 db 0D1h
+.rdata:00000001400669A3                 db    2
+.rdata:00000001400669A4                 db 0D4h
+.rdata:00000001400669A5                 db  0Ch
+.rdata:00000001400669A6                 db 0D5h
+.rdata:00000001400669A7                 db    9
+.rdata:00000001400669A8                 db 0D6h
+.rdata:00000001400669A9                 db    2
+.rdata:00000001400669AA                 db 0D7h
+.rdata:00000001400669AB                 db    2
+.rdata:00000001400669AC                 db 0DAh
+.rdata:00000001400669AD                 db    1
+.rdata:00000001400669AE                 db 0E0h
+.rdata:00000001400669AF                 db    5
+.rdata:00000001400669B0                 db 0E1h
+.rdata:00000001400669B1                 db    2
+.rdata:00000001400669B2                 db 0E7h
+.rdata:00000001400669B3                 db    4
+.rdata:00000001400669B4                 db 0E8h
+.rdata:00000001400669B5                 db    2
+.rdata:00000001400669B6                 db 0EEh
+.rdata:00000001400669B7                 db  20h
+.rdata:00000001400669B8                 db 0F0h
+.rdata:00000001400669B9                 db    4
+.rdata:00000001400669BA                 db 0F8h
+.rdata:00000001400669BB                 db    2
+.rdata:00000001400669BC                 db 0FAh
+.rdata:00000001400669BD                 db    3
+.rdata:00000001400669BE                 db 0FBh
+.rdata:00000001400669BF                 db    1
+.rdata:00000001400669C0 unk_1400669C0   db  0Ch                 ; DATA XREF: sub_1400594B0+87↑o
+.rdata:00000001400669C1                 db  27h ; '
+.rdata:00000001400669C2                 db  3Bh ; ;
+.rdata:00000001400669C3                 db  3Eh ; >
+.rdata:00000001400669C4                 db  4Eh ; N
+.rdata:00000001400669C5                 db  4Fh ; O
+.rdata:00000001400669C6                 db  8Fh
+.rdata:00000001400669C7                 db  9Eh
+.rdata:00000001400669C8                 db  9Eh
+.rdata:00000001400669C9                 db  9Fh
+.rdata:00000001400669CA                 db  7Bh ; {
+.rdata:00000001400669CB                 db  8Bh
+.rdata:00000001400669CC                 db  93h
+.rdata:00000001400669CD                 db  96h
+.rdata:00000001400669CE                 db 0A2h
+.rdata:00000001400669CF                 db 0B2h
+.rdata:00000001400669D0                 db 0BAh
+.rdata:00000001400669D1                 db  86h
+.rdata:00000001400669D2                 db 0B1h
+.rdata:00000001400669D3                 db    6
+.rdata:00000001400669D4                 db    7
+.rdata:00000001400669D5                 db    9
+.rdata:00000001400669D6                 db  36h ; 6
+.rdata:00000001400669D7                 db  3Dh ; =
+.rdata:00000001400669D8                 db  3Eh ; >
+.rdata:00000001400669D9                 db  56h ; V
+.rdata:00000001400669DA                 db 0F3h
+.rdata:00000001400669DB                 db 0D0h
+.rdata:00000001400669DC                 db 0D1h
+.rdata:00000001400669DD                 db    4
+.rdata:00000001400669DE                 db  14h
+.rdata:00000001400669DF                 db  18h
+.rdata:00000001400669E0                 db  36h ; 6
+.rdata:00000001400669E1                 db  37h ; 7
+.rdata:00000001400669E2                 db  56h ; V
+.rdata:00000001400669E3                 db  57h ; W
+.rdata:00000001400669E4                 db  7Fh ; 
+.rdata:00000001400669E5                 db 0AAh
+.rdata:00000001400669E6                 db 0AEh
+.rdata:00000001400669E7                 db 0AFh
+.rdata:00000001400669E8                 db 0BDh
+.rdata:00000001400669E9                 db  35h ; 5
+.rdata:00000001400669EA                 db 0E0h
+.rdata:00000001400669EB                 db  12h
+.rdata:00000001400669EC                 db  87h
+.rdata:00000001400669ED                 db  89h
+.rdata:00000001400669EE                 db  8Eh
+.rdata:00000001400669EF                 db  9Eh
+.rdata:00000001400669F0                 db    4
+.rdata:00000001400669F1                 db  0Dh
+.rdata:00000001400669F2                 db  0Eh
+.rdata:00000001400669F3                 db  11h
+.rdata:00000001400669F4                 db  12h
+.rdata:00000001400669F5                 db  29h ; )
+.rdata:00000001400669F6                 db  31h ; 1
+.rdata:00000001400669F7                 db  34h ; 4
+.rdata:00000001400669F8                 db  3Ah ; :
+.rdata:00000001400669F9                 db  45h ; E
+.rdata:00000001400669FA                 db  46h ; F
+.rdata:00000001400669FB                 db  49h ; I
+.rdata:00000001400669FC                 db  4Ah ; J
+.rdata:00000001400669FD                 db  4Eh ; N
+.rdata:00000001400669FE                 db  4Fh ; O
+.rdata:00000001400669FF                 db  64h ; d
+.rdata:0000000140066A00                 db  65h ; e
+.rdata:0000000140066A01                 db  5Ch ; \
+.rdata:0000000140066A02                 db 0B6h
+.rdata:0000000140066A03                 db 0B7h
+.rdata:0000000140066A04                 db  1Bh
+.rdata:0000000140066A05                 db  1Ch
+.rdata:0000000140066A06                 db    7
+.rdata:0000000140066A07                 db    8
+.rdata:0000000140066A08                 db  0Ah
+.rdata:0000000140066A09                 db  0Bh
+.rdata:0000000140066A0A                 db  14h
+.rdata:0000000140066A0B                 db  17h
+.rdata:0000000140066A0C                 db  36h ; 6
+.rdata:0000000140066A0D                 db  39h ; 9
+.rdata:0000000140066A0E                 db  3Ah ; :
+.rdata:0000000140066A0F                 db 0A8h
+.rdata:0000000140066A10                 db 0A9h
+.rdata:0000000140066A11                 db 0D8h
+.rdata:0000000140066A12                 db 0D9h
+.rdata:0000000140066A13                 db    9
+.rdata:0000000140066A14                 db  37h ; 7
+.rdata:0000000140066A15                 db  90h
+.rdata:0000000140066A16                 db  91h
+.rdata:0000000140066A17                 db 0A8h
+.rdata:0000000140066A18                 db    7
+.rdata:0000000140066A19                 db  0Ah
+.rdata:0000000140066A1A                 db  3Bh ; ;
+.rdata:0000000140066A1B                 db  3Eh ; >
+.rdata:0000000140066A1C                 db  66h ; f
+.rdata:0000000140066A1D                 db  69h ; i
+.rdata:0000000140066A1E                 db  8Fh
+.rdata:0000000140066A1F                 db  92h
+.rdata:0000000140066A20                 db  11h
+.rdata:0000000140066A21                 db  6Fh ; o
+.rdata:0000000140066A22                 db  5Fh ; _
+.rdata:0000000140066A23                 db 0BFh
+.rdata:0000000140066A24                 db 0EEh
+.rdata:0000000140066A25                 db 0EFh
+.rdata:0000000140066A26                 db  5Ah ; Z
+.rdata:0000000140066A27                 db  62h ; b
+.rdata:0000000140066A28                 db 0F4h
+.rdata:0000000140066A29                 db 0FCh
+.rdata:0000000140066A2A                 db 0FFh
+.rdata:0000000140066A2B                 db  53h ; S
+.rdata:0000000140066A2C                 db  54h ; T
+.rdata:0000000140066A2D                 db  9Ah
+.rdata:0000000140066A2E                 db  9Bh
+.rdata:0000000140066A2F                 db  2Eh ; .
+.rdata:0000000140066A30                 db  2Fh ; /
+.rdata:0000000140066A31                 db  27h ; '
+.rdata:0000000140066A32                 db  28h ; (
+.rdata:0000000140066A33                 db  55h ; U
+.rdata:0000000140066A34                 db  9Dh
+.rdata:0000000140066A35                 db 0A0h
+.rdata:0000000140066A36                 db 0A1h
+.rdata:0000000140066A37                 db 0A3h
+.rdata:0000000140066A38                 db 0A4h
+.rdata:0000000140066A39                 db 0A7h
+.rdata:0000000140066A3A                 db 0A8h
+.rdata:0000000140066A3B                 db 0ADh
+.rdata:0000000140066A3C                 db 0BAh
+.rdata:0000000140066A3D                 db 0BCh
+.rdata:0000000140066A3E                 db 0C4h
+.rdata:0000000140066A3F                 db    6
+.rdata:0000000140066A40                 db  0Bh
+.rdata:0000000140066A41                 db  0Ch
+.rdata:0000000140066A42                 db  15h
+.rdata:0000000140066A43                 db  1Dh
+.rdata:0000000140066A44                 db  3Ah ; :
+.rdata:0000000140066A45                 db  3Fh ; ?
+.rdata:0000000140066A46                 db  45h ; E
+.rdata:0000000140066A47                 db  51h ; Q
+.rdata:0000000140066A48                 db 0A6h
+.rdata:0000000140066A49                 db 0A7h
+.rdata:0000000140066A4A                 db 0CCh
+.rdata:0000000140066A4B                 db 0CDh
+.rdata:0000000140066A4C                 db 0A0h
+.rdata:0000000140066A4D                 db    7
+.rdata:0000000140066A4E                 db  19h
+.rdata:0000000140066A4F                 db  1Ah
+.rdata:0000000140066A50                 db  22h ; "
+.rdata:0000000140066A51                 db  25h ; %
+.rdata:0000000140066A52                 db  3Eh ; >
+.rdata:0000000140066A53                 db  3Fh ; ?
+.rdata:0000000140066A54                 db 0E7h
+.rdata:0000000140066A55                 db 0ECh
+.rdata:0000000140066A56                 db 0EFh
+.rdata:0000000140066A57                 db 0FFh
+.rdata:0000000140066A58                 db 0C5h
+.rdata:0000000140066A59                 db 0C6h
+.rdata:0000000140066A5A                 db    4
+.rdata:0000000140066A5B                 db  20h
+.rdata:0000000140066A5C                 db  23h ; #
+.rdata:0000000140066A5D                 db  25h ; %
+.rdata:0000000140066A5E                 db  26h ; &
+.rdata:0000000140066A5F                 db  28h ; (
+.rdata:0000000140066A60                 db  33h ; 3
+.rdata:0000000140066A61                 db  38h ; 8
+.rdata:0000000140066A62                 db  3Ah ; :
+.rdata:0000000140066A63                 db  48h ; H
+.rdata:0000000140066A64                 db  4Ah ; J
+.rdata:0000000140066A65                 db  4Ch ; L
+.rdata:0000000140066A66                 db  50h ; P
+.rdata:0000000140066A67                 db  53h ; S
+.rdata:0000000140066A68                 db  55h ; U
+.rdata:0000000140066A69                 db  56h ; V
+.rdata:0000000140066A6A                 db  58h ; X
+.rdata:0000000140066A6B                 db  5Ah ; Z
+.rdata:0000000140066A6C                 db  5Ch ; \
+.rdata:0000000140066A6D                 db  5Eh ; ^
+.rdata:0000000140066A6E                 db  60h ; `
+.rdata:0000000140066A6F                 db  63h ; c
+.rdata:0000000140066A70                 db  65h ; e
+.rdata:0000000140066A71                 db  66h ; f
+.rdata:0000000140066A72                 db  6Bh ; k
+.rdata:0000000140066A73                 db  73h ; s
+.rdata:0000000140066A74                 db  78h ; x
+.rdata:0000000140066A75                 db  7Dh ; }
+.rdata:0000000140066A76                 db  7Fh ; 
+.rdata:0000000140066A77                 db  8Ah
+.rdata:0000000140066A78                 db 0A4h
+.rdata:0000000140066A79                 db 0AAh
+.rdata:0000000140066A7A                 db 0AFh
+.rdata:0000000140066A7B                 db 0B0h
+.rdata:0000000140066A7C                 db 0C0h
+.rdata:0000000140066A7D                 db 0D0h
+.rdata:0000000140066A7E                 db 0AEh
+.rdata:0000000140066A7F                 db 0AFh
+.rdata:0000000140066A80                 db  6Eh ; n
+.rdata:0000000140066A81                 db  6Fh ; o
+.rdata:0000000140066A82                 db 0BEh
+.rdata:0000000140066A83                 db  93h
+.rdata:0000000140066A84 unk_140066A84   db  5Eh ; ^             ; DATA XREF: sub_1400594B0+62↑o
+.rdata:0000000140066A85                 db  22h ; "
+.rdata:0000000140066A86                 db  7Bh ; {
+.rdata:0000000140066A87                 db    5
+.rdata:0000000140066A88                 db    3
+.rdata:0000000140066A89                 db    4
+.rdata:0000000140066A8A                 db  2Dh ; -
+.rdata:0000000140066A8B                 db    3
+.rdata:0000000140066A8C                 db  66h ; f
+.rdata:0000000140066A8D                 db    3
+.rdata:0000000140066A8E                 db    1
+.rdata:0000000140066A8F                 db  2Fh ; /
+.rdata:0000000140066A90                 db  2Eh ; .
+.rdata:0000000140066A91                 db  80h
+.rdata:0000000140066A92                 db  82h
+.rdata:0000000140066A93                 db  1Dh
+.rdata:0000000140066A94                 db    3
+.rdata:0000000140066A95                 db  31h ; 1
+.rdata:0000000140066A96                 db  0Fh
+.rdata:0000000140066A97                 db  1Ch
+.rdata:0000000140066A98                 db    4
+.rdata:0000000140066A99                 db  24h ; $
+.rdata:0000000140066A9A                 db    9
+.rdata:0000000140066A9B                 db  1Eh
+.rdata:0000000140066A9C                 db    5
+.rdata:0000000140066A9D                 db  2Bh ; +
+.rdata:0000000140066A9E                 db    5
+.rdata:0000000140066A9F                 db  44h ; D
+.rdata:0000000140066AA0                 db    4
+.rdata:0000000140066AA1                 db  0Eh
+.rdata:0000000140066AA2                 db  2Ah ; *
+.rdata:0000000140066AA3                 db  80h
+.rdata:0000000140066AA4                 db 0AAh
+.rdata:0000000140066AA5                 db    6
+.rdata:0000000140066AA6                 db  24h ; $
+.rdata:0000000140066AA7                 db    4
+.rdata:0000000140066AA8                 db  24h ; $
+.rdata:0000000140066AA9                 db    4
+.rdata:0000000140066AAA                 db  28h ; (
+.rdata:0000000140066AAB                 db    8
+.rdata:0000000140066AAC                 db  34h ; 4
+.rdata:0000000140066AAD                 db  0Bh
+.rdata:0000000140066AAE                 db  4Eh ; N
+.rdata:0000000140066AAF                 db  43h ; C
+.rdata:0000000140066AB0                 db  81h
+.rdata:0000000140066AB1                 db  37h ; 7
+.rdata:0000000140066AB2                 db    9
+.rdata:0000000140066AB3                 db  16h
+.rdata:0000000140066AB4                 db  0Ah
+.rdata:0000000140066AB5                 db    8
+.rdata:0000000140066AB6                 db  18h
+.rdata:0000000140066AB7                 db  3Bh ; ;
+.rdata:0000000140066AB8                 db  45h ; E
+.rdata:0000000140066AB9                 db  39h ; 9
+.rdata:0000000140066ABA                 db    3
+.rdata:0000000140066ABB                 db  63h ; c
+.rdata:0000000140066ABC                 db    8
+.rdata:0000000140066ABD                 db    9
+.rdata:0000000140066ABE                 db  30h ; 0
+.rdata:0000000140066ABF                 db  16h
+.rdata:0000000140066AC0                 db    5
+.rdata:0000000140066AC1                 db  21h ; !
+.rdata:0000000140066AC2                 db    3
+.rdata:0000000140066AC3                 db  1Bh
+.rdata:0000000140066AC4                 db    5
+.rdata:0000000140066AC5                 db    1
+.rdata:0000000140066AC6                 db  40h ; @
+.rdata:0000000140066AC7                 db  38h ; 8
+.rdata:0000000140066AC8                 db    4
+.rdata:0000000140066AC9                 db  4Bh ; K
+.rdata:0000000140066ACA                 db    5
+.rdata:0000000140066ACB                 db  2Fh ; /
+.rdata:0000000140066ACC                 db    4
+.rdata:0000000140066ACD                 db  0Ah
+.rdata:0000000140066ACE                 db    7
+.rdata:0000000140066ACF                 db    9
+.rdata:0000000140066AD0                 db    7
+.rdata:0000000140066AD1                 db  40h ; @
+.rdata:0000000140066AD2                 db  20h
+.rdata:0000000140066AD3                 db  27h ; '
+.rdata:0000000140066AD4                 db    4
+.rdata:0000000140066AD5                 db  0Ch
+.rdata:0000000140066AD6                 db    9
+.rdata:0000000140066AD7                 db  36h ; 6
+.rdata:0000000140066AD8                 db    3
+.rdata:0000000140066AD9                 db  3Ah ; :
+.rdata:0000000140066ADA                 db    5
+.rdata:0000000140066ADB                 db  1Ah
+.rdata:0000000140066ADC                 db    7
+.rdata:0000000140066ADD                 db    4
+.rdata:0000000140066ADE                 db  0Ch
+.rdata:0000000140066ADF                 db    7
+.rdata:0000000140066AE0                 db  50h ; P
+.rdata:0000000140066AE1                 db  49h ; I
+.rdata:0000000140066AE2                 db  37h ; 7
+.rdata:0000000140066AE3                 db  33h ; 3
+.rdata:0000000140066AE4                 db  0Dh
+.rdata:0000000140066AE5                 db  33h ; 3
+.rdata:0000000140066AE6                 db    7
+.rdata:0000000140066AE7                 db  2Eh ; .
+.rdata:0000000140066AE8                 db    8
+.rdata:0000000140066AE9                 db  0Ah
+.rdata:0000000140066AEA                 db  81h
+.rdata:0000000140066AEB                 db  26h ; &
+.rdata:0000000140066AEC                 db  52h ; R
+.rdata:0000000140066AED                 db  4Bh ; K
+.rdata:0000000140066AEE                 db  2Bh ; +
+.rdata:0000000140066AEF                 db    8
+.rdata:0000000140066AF0                 db  2Ah ; *
+.rdata:0000000140066AF1                 db  16h
+.rdata:0000000140066AF2                 db  1Ah
+.rdata:0000000140066AF3                 db  26h ; &
+.rdata:0000000140066AF4                 db  1Ch
+.rdata:0000000140066AF5                 db  14h
+.rdata:0000000140066AF6                 db  17h
+.rdata:0000000140066AF7                 db    9
+.rdata:0000000140066AF8                 db  4Eh ; N
+.rdata:0000000140066AF9                 db    4
+.rdata:0000000140066AFA                 db  24h ; $
+.rdata:0000000140066AFB                 db    9
+.rdata:0000000140066AFC                 db  44h ; D
+.rdata:0000000140066AFD                 db  0Dh
+.rdata:0000000140066AFE                 db  19h
+.rdata:0000000140066AFF                 db    7
+.rdata:0000000140066B00                 db  0Ah
+.rdata:0000000140066B01                 db    6
+.rdata:0000000140066B02                 db  48h ; H
+.rdata:0000000140066B03                 db    8
+.rdata:0000000140066B04                 db  27h ; '
+.rdata:0000000140066B05                 db    9
+.rdata:0000000140066B06                 db  75h ; u
+.rdata:0000000140066B07                 db  0Bh
+.rdata:0000000140066B08                 db  42h ; B
+.rdata:0000000140066B09                 db  3Eh ; >
+.rdata:0000000140066B0A                 db  2Ah ; *
+.rdata:0000000140066B0B                 db    6
+.rdata:0000000140066B0C                 db  3Bh ; ;
+.rdata:0000000140066B0D                 db    5
+.rdata:0000000140066B0E                 db  0Ah
+.rdata:0000000140066B0F                 db    6
+.rdata:0000000140066B10                 db  51h ; Q
+.rdata:0000000140066B11                 db    6
+.rdata:0000000140066B12                 db    1
+.rdata:0000000140066B13                 db    5
+.rdata:0000000140066B14                 db  10h
+.rdata:0000000140066B15                 db    3
+.rdata:0000000140066B16                 db    5
+.rdata:0000000140066B17                 db  80h
+.rdata:0000000140066B18                 db  8Bh
+.rdata:0000000140066B19                 db  62h ; b
+.rdata:0000000140066B1A                 db  1Eh
+.rdata:0000000140066B1B                 db  48h ; H
+.rdata:0000000140066B1C                 db    8
+.rdata:0000000140066B1D                 db  0Ah
+.rdata:0000000140066B1E                 db  80h
+.rdata:0000000140066B1F                 db 0A6h
+.rdata:0000000140066B20                 db  5Eh ; ^
+.rdata:0000000140066B21                 db  22h ; "
+.rdata:0000000140066B22                 db  45h ; E
+.rdata:0000000140066B23                 db  0Bh
+.rdata:0000000140066B24                 db  0Ah
+.rdata:0000000140066B25                 db    6
+.rdata:0000000140066B26                 db  0Dh
+.rdata:0000000140066B27                 db  13h
+.rdata:0000000140066B28                 db  3Ah ; :
+.rdata:0000000140066B29                 db    6
+.rdata:0000000140066B2A                 db  0Ah
+.rdata:0000000140066B2B                 db  36h ; 6
+.rdata:0000000140066B2C                 db  2Ch ; ,
+.rdata:0000000140066B2D                 db    4
+.rdata:0000000140066B2E                 db  17h
+.rdata:0000000140066B2F                 db  80h
+.rdata:0000000140066B30                 db 0B9h
+.rdata:0000000140066B31                 db  3Ch ; <
+.rdata:0000000140066B32                 db  64h ; d
+.rdata:0000000140066B33                 db  53h ; S
+.rdata:0000000140066B34                 db  0Ch
+.rdata:0000000140066B35                 db  48h ; H
+.rdata:0000000140066B36                 db    9
+.rdata:0000000140066B37                 db  0Ah
+.rdata:0000000140066B38                 db  46h ; F
+.rdata:0000000140066B39                 db  45h ; E
+.rdata:0000000140066B3A                 db  1Bh
+.rdata:0000000140066B3B                 db  48h ; H
+.rdata:0000000140066B3C                 db    8
+.rdata:0000000140066B3D                 db  53h ; S
+.rdata:0000000140066B3E                 db  0Dh
+.rdata:0000000140066B3F                 db  49h ; I
+.rdata:0000000140066B40                 db    7
+.rdata:0000000140066B41                 db  0Ah
+.rdata:0000000140066B42                 db  80h
+.rdata:0000000140066B43                 db 0F6h
+.rdata:0000000140066B44                 db  46h ; F
+.rdata:0000000140066B45                 db  0Ah
+.rdata:0000000140066B46                 db  1Dh
+.rdata:0000000140066B47                 db    3
+.rdata:0000000140066B48                 db  47h ; G
+.rdata:0000000140066B49                 db  49h ; I
+.rdata:0000000140066B4A                 db  37h ; 7
+.rdata:0000000140066B4B                 db    3
+.rdata:0000000140066B4C                 db  0Eh
+.rdata:0000000140066B4D                 db    8
+.rdata:0000000140066B4E                 db  0Ah
+.rdata:0000000140066B4F                 db    6
+.rdata:0000000140066B50                 db  39h ; 9
+.rdata:0000000140066B51                 db    7
+.rdata:0000000140066B52                 db  0Ah
+.rdata:0000000140066B53                 db  81h
+.rdata:0000000140066B54                 db  36h ; 6
+.rdata:0000000140066B55                 db  19h
+.rdata:0000000140066B56                 db    7
+.rdata:0000000140066B57                 db  3Bh ; ;
+.rdata:0000000140066B58                 db    3
+.rdata:0000000140066B59                 db  1Ch
+.rdata:0000000140066B5A                 db  56h ; V
+.rdata:0000000140066B5B                 db    1
+.rdata:0000000140066B5C                 db  0Fh
+.rdata:0000000140066B5D                 db  32h ; 2
+.rdata:0000000140066B5E                 db  0Dh
+.rdata:0000000140066B5F                 db  83h
+.rdata:0000000140066B60                 db  9Bh
+.rdata:0000000140066B61                 db  66h ; f
+.rdata:0000000140066B62                 db  75h ; u
+.rdata:0000000140066B63                 db  0Bh
+.rdata:0000000140066B64                 db  80h
+.rdata:0000000140066B65                 db 0C4h
+.rdata:0000000140066B66                 db  8Ah
+.rdata:0000000140066B67                 db  4Ch ; L
+.rdata:0000000140066B68                 db  63h ; c
+.rdata:0000000140066B69                 db  0Dh
+.rdata:0000000140066B6A                 db  84h
+.rdata:0000000140066B6B                 db  30h ; 0
+.rdata:0000000140066B6C                 db  10h
+.rdata:0000000140066B6D                 db  16h
+.rdata:0000000140066B6E                 db  8Fh
+.rdata:0000000140066B6F                 db 0AAh
+.rdata:0000000140066B70                 db  82h
+.rdata:0000000140066B71                 db  47h ; G
+.rdata:0000000140066B72                 db 0A1h
+.rdata:0000000140066B73                 db 0B9h
+.rdata:0000000140066B74                 db  82h
+.rdata:0000000140066B75                 db  39h ; 9
+.rdata:0000000140066B76                 db    7
+.rdata:0000000140066B77                 db  2Ah ; *
+.rdata:0000000140066B78                 db    4
+.rdata:0000000140066B79                 db  5Ch ; \
+.rdata:0000000140066B7A                 db    6
+.rdata:0000000140066B7B                 db  26h ; &
+.rdata:0000000140066B7C                 db  0Ah
+.rdata:0000000140066B7D                 db  46h ; F
+.rdata:0000000140066B7E                 db  0Ah
+.rdata:0000000140066B7F                 db  28h ; (
+.rdata:0000000140066B80                 db    5
+.rdata:0000000140066B81                 db  13h
+.rdata:0000000140066B82                 db  82h
+.rdata:0000000140066B83                 db 0B0h
+.rdata:0000000140066B84                 db  5Bh ; [
+.rdata:0000000140066B85                 db  65h ; e
+.rdata:0000000140066B86                 db  4Bh ; K
+.rdata:0000000140066B87                 db    4
+.rdata:0000000140066B88                 db  39h ; 9
+.rdata:0000000140066B89                 db    7
+.rdata:0000000140066B8A                 db  11h
+.rdata:0000000140066B8B                 db  40h ; @
+.rdata:0000000140066B8C                 db    5
+.rdata:0000000140066B8D                 db  0Bh
+.rdata:0000000140066B8E                 db    2
+.rdata:0000000140066B8F                 db  0Eh
+.rdata:0000000140066B90                 db  97h
+.rdata:0000000140066B91                 db 0F8h
+.rdata:0000000140066B92                 db    8
+.rdata:0000000140066B93                 db  84h
+.rdata:0000000140066B94                 db 0D6h
+.rdata:0000000140066B95                 db  2Ah ; *
+.rdata:0000000140066B96                 db    9
+.rdata:0000000140066B97                 db 0A2h
+.rdata:0000000140066B98                 db 0E7h
+.rdata:0000000140066B99                 db  81h
+.rdata:0000000140066B9A                 db  33h ; 3
+.rdata:0000000140066B9B                 db  0Fh
+.rdata:0000000140066B9C                 db    1
+.rdata:0000000140066B9D                 db  1Dh
+.rdata:0000000140066B9E                 db    6
+.rdata:0000000140066B9F                 db  0Eh
+.rdata:0000000140066BA0                 db    4
+.rdata:0000000140066BA1                 db    8
+.rdata:0000000140066BA2                 db  81h
+.rdata:0000000140066BA3                 db  8Ch
+.rdata:0000000140066BA4                 db  89h
+.rdata:0000000140066BA5                 db    4
+.rdata:0000000140066BA6                 db  6Bh ; k
+.rdata:0000000140066BA7                 db    5
+.rdata:0000000140066BA8                 db  0Dh
+.rdata:0000000140066BA9                 db    3
+.rdata:0000000140066BAA                 db    9
+.rdata:0000000140066BAB                 db    7
+.rdata:0000000140066BAC                 db  10h
+.rdata:0000000140066BAD                 db  92h
+.rdata:0000000140066BAE                 db  60h ; `
+.rdata:0000000140066BAF                 db  47h ; G
+.rdata:0000000140066BB0                 db    9
+.rdata:0000000140066BB1                 db  74h ; t
+.rdata:0000000140066BB2                 db  3Ch ; <
+.rdata:0000000140066BB3                 db  80h
+.rdata:0000000140066BB4                 db 0F6h
+.rdata:0000000140066BB5                 db  0Ah
+.rdata:0000000140066BB6                 db  73h ; s
+.rdata:0000000140066BB7                 db    8
+.rdata:0000000140066BB8                 db  70h ; p
+.rdata:0000000140066BB9                 db  15h
+.rdata:0000000140066BBA                 db  46h ; F
+.rdata:0000000140066BBB                 db  7Ah ; z
+.rdata:0000000140066BBC                 db  14h
+.rdata:0000000140066BBD                 db  0Ch
+.rdata:0000000140066BBE                 db  14h
+.rdata:0000000140066BBF                 db  0Ch
+.rdata:0000000140066BC0                 db  57h ; W
+.rdata:0000000140066BC1                 db    9
+.rdata:0000000140066BC2                 db  19h
+.rdata:0000000140066BC3                 db  80h
+.rdata:0000000140066BC4                 db  87h
+.rdata:0000000140066BC5                 db  81h
+.rdata:0000000140066BC6                 db  47h ; G
+.rdata:0000000140066BC7                 db    3
+.rdata:0000000140066BC8                 db  85h
+.rdata:0000000140066BC9                 db  42h ; B
+.rdata:0000000140066BCA                 db  0Fh
+.rdata:0000000140066BCB                 db  15h
+.rdata:0000000140066BCC                 db  84h
+.rdata:0000000140066BCD                 db  50h ; P
+.rdata:0000000140066BCE                 db  1Fh
+.rdata:0000000140066BCF                 db    6
+.rdata:0000000140066BD0                 db    6
+.rdata:0000000140066BD1                 db  80h
+.rdata:0000000140066BD2                 db 0D5h
+.rdata:0000000140066BD3                 db  2Bh ; +
+.rdata:0000000140066BD4                 db    5
+.rdata:0000000140066BD5                 db  3Eh ; >
+.rdata:0000000140066BD6                 db  21h ; !
+.rdata:0000000140066BD7                 db    1
+.rdata:0000000140066BD8                 db  70h ; p
+.rdata:0000000140066BD9                 db  2Dh ; -
+.rdata:0000000140066BDA                 db    3
+.rdata:0000000140066BDB                 db  1Ah
+.rdata:0000000140066BDC                 db    4
+.rdata:0000000140066BDD                 db    2
+.rdata:0000000140066BDE                 db  81h
+.rdata:0000000140066BDF                 db  40h ; @
+.rdata:0000000140066BE0                 db  1Fh
+.rdata:0000000140066BE1                 db  11h
+.rdata:0000000140066BE2                 db  3Ah ; :
+.rdata:0000000140066BE3                 db    5
+.rdata:0000000140066BE4                 db    1
+.rdata:0000000140066BE5                 db  81h
+.rdata:0000000140066BE6                 db 0D0h
+.rdata:0000000140066BE7                 db  2Ah ; *
+.rdata:0000000140066BE8                 db  82h
+.rdata:0000000140066BE9                 db 0E6h
+.rdata:0000000140066BEA                 db  80h
+.rdata:0000000140066BEB                 db 0F7h
+.rdata:0000000140066BEC                 db  29h ; )
+.rdata:0000000140066BED                 db  4Ch ; L
+.rdata:0000000140066BEE                 db    4
+.rdata:0000000140066BEF                 db  0Ah
+.rdata:0000000140066BF0                 db    4
+.rdata:0000000140066BF1                 db    2
+.rdata:0000000140066BF2                 db  83h
+.rdata:0000000140066BF3                 db  11h
+.rdata:0000000140066BF4                 db  44h ; D
+.rdata:0000000140066BF5                 db  4Ch ; L
+.rdata:0000000140066BF6                 db  3Dh ; =
+.rdata:0000000140066BF7                 db  80h
+.rdata:0000000140066BF8                 db 0C2h
+.rdata:0000000140066BF9                 db  3Ch ; <
+.rdata:0000000140066BFA                 db    6
+.rdata:0000000140066BFB                 db    1
+.rdata:0000000140066BFC                 db    4
+.rdata:0000000140066BFD                 db  55h ; U
+.rdata:0000000140066BFE                 db    5
+.rdata:0000000140066BFF                 db  1Bh
+.rdata:0000000140066C00                 db  34h ; 4
+.rdata:0000000140066C01                 db    2
+.rdata:0000000140066C02                 db  81h
+.rdata:0000000140066C03                 db  0Eh
+.rdata:0000000140066C04                 db  2Ch ; ,
+.rdata:0000000140066C05                 db    4
+.rdata:0000000140066C06                 db  64h ; d
+.rdata:0000000140066C07                 db  0Ch
+.rdata:0000000140066C08                 db  56h ; V
+.rdata:0000000140066C09                 db  0Ah
+.rdata:0000000140066C0A                 db  80h
+.rdata:0000000140066C0B                 db 0AEh
+.rdata:0000000140066C0C                 db  38h ; 8
+.rdata:0000000140066C0D                 db  1Dh
+.rdata:0000000140066C0E                 db  0Dh
+.rdata:0000000140066C0F                 db  2Ch ; ,
+.rdata:0000000140066C10                 db    4
+.rdata:0000000140066C11                 db    9
+.rdata:0000000140066C12                 db    7
+.rdata:0000000140066C13                 db    2
+.rdata:0000000140066C14                 db  0Eh
+.rdata:0000000140066C15                 db    6
+.rdata:0000000140066C16                 db  80h
+.rdata:0000000140066C17                 db  9Ah
+.rdata:0000000140066C18                 db  83h
+.rdata:0000000140066C19                 db 0D8h
+.rdata:0000000140066C1A                 db    4
+.rdata:0000000140066C1B                 db  11h
+.rdata:0000000140066C1C                 db    3
+.rdata:0000000140066C1D                 db  0Dh
+.rdata:0000000140066C1E                 db    3
+.rdata:0000000140066C1F                 db  77h ; w
+.rdata:0000000140066C20                 db    4
+.rdata:0000000140066C21                 db  5Fh ; _
+.rdata:0000000140066C22                 db    6
+.rdata:0000000140066C23                 db  0Ch
+.rdata:0000000140066C24                 db    4
+.rdata:0000000140066C25                 db    1
+.rdata:0000000140066C26                 db  0Fh
+.rdata:0000000140066C27                 db  0Ch
+.rdata:0000000140066C28                 db    4
+.rdata:0000000140066C29                 db  38h ; 8
+.rdata:0000000140066C2A                 db    8
+.rdata:0000000140066C2B                 db  0Ah
+.rdata:0000000140066C2C                 db    6
+.rdata:0000000140066C2D                 db  28h ; (
+.rdata:0000000140066C2E                 db    8
+.rdata:0000000140066C2F                 db  22h ; "
+.rdata:0000000140066C30                 db  4Eh ; N
+.rdata:0000000140066C31                 db  81h
+.rdata:0000000140066C32                 db  54h ; T
+.rdata:0000000140066C33                 db  0Ch
+.rdata:0000000140066C34                 db  1Dh
+.rdata:0000000140066C35                 db    3
+.rdata:0000000140066C36                 db    9
+.rdata:0000000140066C37                 db    7
+.rdata:0000000140066C38                 db  36h ; 6
+.rdata:0000000140066C39                 db    8
+.rdata:0000000140066C3A                 db  0Eh
+.rdata:0000000140066C3B                 db    4
+.rdata:0000000140066C3C                 db    9
+.rdata:0000000140066C3D                 db    7
+.rdata:0000000140066C3E                 db    9
+.rdata:0000000140066C3F                 db    7
+.rdata:0000000140066C40                 db  80h
+.rdata:0000000140066C41                 db 0CBh
+.rdata:0000000140066C42                 db  25h ; %
+.rdata:0000000140066C43                 db  0Ah
+.rdata:0000000140066C44                 db  84h
+.rdata:0000000140066C45                 db    6
+.rdata:0000000140066C46 unk_140066C46   db    0                 ; DATA XREF: sub_1400594B0+44↑o
+.rdata:0000000140066C47                 db    1
+.rdata:0000000140066C48                 db    3
+.rdata:0000000140066C49                 db    5
+.rdata:0000000140066C4A                 db    5
+.rdata:0000000140066C4B                 db    6
+.rdata:0000000140066C4C                 db    6
+.rdata:0000000140066C4D                 db    2
+.rdata:0000000140066C4E                 db    7
+.rdata:0000000140066C4F                 db    6
+.rdata:0000000140066C50                 db    8
+.rdata:0000000140066C51                 db    7
+.rdata:0000000140066C52                 db    9
+.rdata:0000000140066C53                 db  11h
+.rdata:0000000140066C54                 db  0Ah
+.rdata:0000000140066C55                 db  1Ch
+.rdata:0000000140066C56                 db  0Bh
+.rdata:0000000140066C57                 db  19h
+.rdata:0000000140066C58                 db  0Ch
+.rdata:0000000140066C59                 db  1Ah
+.rdata:0000000140066C5A                 db  0Dh
+.rdata:0000000140066C5B                 db  10h
+.rdata:0000000140066C5C                 db  0Eh
+.rdata:0000000140066C5D                 db  0Ch
+.rdata:0000000140066C5E                 db  0Fh
+.rdata:0000000140066C5F                 db    4
+.rdata:0000000140066C60                 db  10h
+.rdata:0000000140066C61                 db    3
+.rdata:0000000140066C62                 db  12h
+.rdata:0000000140066C63                 db  12h
+.rdata:0000000140066C64                 db  13h
+.rdata:0000000140066C65                 db    9
+.rdata:0000000140066C66                 db  16h
+.rdata:0000000140066C67                 db    1
+.rdata:0000000140066C68                 db  17h
+.rdata:0000000140066C69                 db    4
+.rdata:0000000140066C6A                 db  18h
+.rdata:0000000140066C6B                 db    1
+.rdata:0000000140066C6C                 db  19h
+.rdata:0000000140066C6D                 db    3
+.rdata:0000000140066C6E                 db  1Ah
+.rdata:0000000140066C6F                 db    7
+.rdata:0000000140066C70                 db  1Bh
+.rdata:0000000140066C71                 db    1
+.rdata:0000000140066C72                 db  1Ch
+.rdata:0000000140066C73                 db    2
+.rdata:0000000140066C74                 db  1Fh
+.rdata:0000000140066C75                 db  16h
+.rdata:0000000140066C76                 db  20h
+.rdata:0000000140066C77                 db    3
+.rdata:0000000140066C78                 db  2Bh ; +
+.rdata:0000000140066C79                 db    3
+.rdata:0000000140066C7A                 db  2Dh ; -
+.rdata:0000000140066C7B                 db  0Bh
+.rdata:0000000140066C7C                 db  2Eh ; .
+.rdata:0000000140066C7D                 db    1
+.rdata:0000000140066C7E                 db  30h ; 0
+.rdata:0000000140066C7F                 db    4
+.rdata:0000000140066C80                 db  31h ; 1
+.rdata:0000000140066C81                 db    2
+.rdata:0000000140066C82                 db  32h ; 2
+.rdata:0000000140066C83                 db    1
+.rdata:0000000140066C84                 db 0A7h
+.rdata:0000000140066C85                 db    2
+.rdata:0000000140066C86                 db 0A9h
+.rdata:0000000140066C87                 db    2
+.rdata:0000000140066C88                 db 0AAh
+.rdata:0000000140066C89                 db    4
+.rdata:0000000140066C8A                 db 0ABh
+.rdata:0000000140066C8B                 db    8
+.rdata:0000000140066C8C                 db 0FAh
+.rdata:0000000140066C8D                 db    2
+.rdata:0000000140066C8E                 db 0FBh
+.rdata:0000000140066C8F                 db    5
+.rdata:0000000140066C90                 db 0FDh
+.rdata:0000000140066C91                 db    2
+.rdata:0000000140066C92                 db 0FEh
+.rdata:0000000140066C93                 db    3
+.rdata:0000000140066C94                 db 0FFh
+.rdata:0000000140066C95                 db    9
+.rdata:0000000140066C96 unk_140066C96   db 0ADh                 ; DATA XREF: sub_1400594B0+4B↑o
+.rdata:0000000140066C97                 db  78h ; x
+.rdata:0000000140066C98                 db  79h ; y
+.rdata:0000000140066C99                 db  8Bh
+.rdata:0000000140066C9A                 db  8Dh
+.rdata:0000000140066C9B                 db 0A2h
+.rdata:0000000140066C9C                 db  30h ; 0
+.rdata:0000000140066C9D                 db  57h ; W
+.rdata:0000000140066C9E                 db  58h ; X
+.rdata:0000000140066C9F                 db  8Bh
+.rdata:0000000140066CA0                 db  8Ch
+.rdata:0000000140066CA1                 db  90h
+.rdata:0000000140066CA2                 db  1Ch
+.rdata:0000000140066CA3                 db 0DDh
+.rdata:0000000140066CA4                 db  0Eh
+.rdata:0000000140066CA5                 db  0Fh
+.rdata:0000000140066CA6                 db  4Bh ; K
+.rdata:0000000140066CA7                 db  4Ch ; L
+.rdata:0000000140066CA8                 db 0FBh
+.rdata:0000000140066CA9                 db 0FCh
+.rdata:0000000140066CAA                 db  2Eh ; .
+.rdata:0000000140066CAB                 db  2Fh ; /
+.rdata:0000000140066CAC                 db  3Fh ; ?
+.rdata:0000000140066CAD                 db  5Ch ; \
+.rdata:0000000140066CAE                 db  5Dh ; ]
+.rdata:0000000140066CAF                 db  5Fh ; _
+.rdata:0000000140066CB0                 db 0E2h
+.rdata:0000000140066CB1                 db  84h
+.rdata:0000000140066CB2                 db  8Dh
+.rdata:0000000140066CB3                 db  8Eh
+.rdata:0000000140066CB4                 db  91h
+.rdata:0000000140066CB5                 db  92h
+.rdata:0000000140066CB6                 db 0A9h
+.rdata:0000000140066CB7                 db 0B1h
+.rdata:0000000140066CB8                 db 0BAh
+.rdata:0000000140066CB9                 db 0BBh
+.rdata:0000000140066CBA                 db 0C5h
+.rdata:0000000140066CBB                 db 0C6h
+.rdata:0000000140066CBC                 db 0C9h
+.rdata:0000000140066CBD                 db 0CAh
+.rdata:0000000140066CBE                 db 0DEh
+.rdata:0000000140066CBF                 db 0E4h
+.rdata:0000000140066CC0                 db 0E5h
+.rdata:0000000140066CC1                 db 0FFh
+.rdata:0000000140066CC2                 db    0
+.rdata:0000000140066CC3                 db    4
+.rdata:0000000140066CC4                 db  11h
+.rdata:0000000140066CC5                 db  12h
+.rdata:0000000140066CC6                 db  29h ; )
+.rdata:0000000140066CC7                 db  31h ; 1
+.rdata:0000000140066CC8                 db  34h ; 4
+.rdata:0000000140066CC9                 db  37h ; 7
+.rdata:0000000140066CCA                 db  3Ah ; :
+.rdata:0000000140066CCB                 db  3Bh ; ;
+.rdata:0000000140066CCC                 db  3Dh ; =
+.rdata:0000000140066CCD                 db  49h ; I
+.rdata:0000000140066CCE                 db  4Ah ; J
+.rdata:0000000140066CCF                 db  5Dh ; ]
+.rdata:0000000140066CD0                 db  84h
+.rdata:0000000140066CD1                 db  8Eh
+.rdata:0000000140066CD2                 db  92h
+.rdata:0000000140066CD3                 db 0A9h
+.rdata:0000000140066CD4                 db 0B1h
+.rdata:0000000140066CD5                 db 0B4h
+.rdata:0000000140066CD6                 db 0BAh
+.rdata:0000000140066CD7                 db 0BBh
+.rdata:0000000140066CD8                 db 0C6h
+.rdata:0000000140066CD9                 db 0CAh
+.rdata:0000000140066CDA                 db 0CEh
+.rdata:0000000140066CDB                 db 0CFh
+.rdata:0000000140066CDC                 db 0E4h
+.rdata:0000000140066CDD                 db 0E5h
+.rdata:0000000140066CDE                 db    0
+.rdata:0000000140066CDF                 db    4
+.rdata:0000000140066CE0                 db  0Dh
+.rdata:0000000140066CE1                 db  0Eh
+.rdata:0000000140066CE2                 db  11h
+.rdata:0000000140066CE3                 db  12h
+.rdata:0000000140066CE4                 db  29h ; )
+.rdata:0000000140066CE5                 db  31h ; 1
+.rdata:0000000140066CE6                 db  34h ; 4
+.rdata:0000000140066CE7                 db  3Ah ; :
+.rdata:0000000140066CE8                 db  3Bh ; ;
+.rdata:0000000140066CE9                 db  45h ; E
+.rdata:0000000140066CEA                 db  46h ; F
+.rdata:0000000140066CEB                 db  49h ; I
+.rdata:0000000140066CEC                 db  4Ah ; J
+.rdata:0000000140066CED                 db  5Eh ; ^
+.rdata:0000000140066CEE                 db  64h ; d
+.rdata:0000000140066CEF                 db  65h ; e
+.rdata:0000000140066CF0                 db  84h
+.rdata:0000000140066CF1                 db  91h
+.rdata:0000000140066CF2                 db  9Bh
+.rdata:0000000140066CF3                 db  9Dh
+.rdata:0000000140066CF4                 db 0C9h
+.rdata:0000000140066CF5                 db 0CEh
+.rdata:0000000140066CF6                 db 0CFh
+.rdata:0000000140066CF7                 db  0Dh
+.rdata:0000000140066CF8                 db  11h
+.rdata:0000000140066CF9                 db  29h ; )
+.rdata:0000000140066CFA                 db  3Ah ; :
+.rdata:0000000140066CFB                 db  3Bh ; ;
+.rdata:0000000140066CFC                 db  45h ; E
+.rdata:0000000140066CFD                 db  49h ; I
+.rdata:0000000140066CFE                 db  57h ; W
+.rdata:0000000140066CFF                 db  5Bh ; [
+.rdata:0000000140066D00                 db  5Ch ; \
+.rdata:0000000140066D01                 db  5Eh ; ^
+.rdata:0000000140066D02                 db  5Fh ; _
+.rdata:0000000140066D03                 db  64h ; d
+.rdata:0000000140066D04                 db  65h ; e
+.rdata:0000000140066D05                 db  8Dh
+.rdata:0000000140066D06                 db  91h
+.rdata:0000000140066D07                 db 0A9h
+.rdata:0000000140066D08                 db 0B4h
+.rdata:0000000140066D09                 db 0BAh
+.rdata:0000000140066D0A                 db 0BBh
+.rdata:0000000140066D0B                 db 0C5h
+.rdata:0000000140066D0C                 db 0C9h
+.rdata:0000000140066D0D                 db 0DFh
+.rdata:0000000140066D0E                 db 0E4h
+.rdata:0000000140066D0F                 db 0E5h
+.rdata:0000000140066D10                 db 0F0h
+.rdata:0000000140066D11                 db  0Dh
+.rdata:0000000140066D12                 db  11h
+.rdata:0000000140066D13                 db  45h ; E
+.rdata:0000000140066D14                 db  49h ; I
+.rdata:0000000140066D15                 db  64h ; d
+.rdata:0000000140066D16                 db  65h ; e
+.rdata:0000000140066D17                 db  80h
+.rdata:0000000140066D18                 db  84h
+.rdata:0000000140066D19                 db 0B2h
+.rdata:0000000140066D1A                 db 0BCh
+.rdata:0000000140066D1B                 db 0BEh
+.rdata:0000000140066D1C                 db 0BFh
+.rdata:0000000140066D1D                 db 0D5h
+.rdata:0000000140066D1E                 db 0D7h
+.rdata:0000000140066D1F                 db 0F0h
+.rdata:0000000140066D20                 db 0F1h
+.rdata:0000000140066D21                 db  83h
+.rdata:0000000140066D22                 db  85h
+.rdata:0000000140066D23                 db  8Bh
+.rdata:0000000140066D24                 db 0A4h
+.rdata:0000000140066D25                 db 0A6h
+.rdata:0000000140066D26                 db 0BEh
+.rdata:0000000140066D27                 db 0BFh
+.rdata:0000000140066D28                 db 0C5h
+.rdata:0000000140066D29                 db 0C7h
+.rdata:0000000140066D2A                 db 0CFh
+.rdata:0000000140066D2B                 db 0DAh
+.rdata:0000000140066D2C                 db 0DBh
+.rdata:0000000140066D2D                 db  48h ; H
+.rdata:0000000140066D2E                 db  98h
+.rdata:0000000140066D2F                 db 0BDh
+.rdata:0000000140066D30                 db 0CDh
+.rdata:0000000140066D31                 db 0C6h
+.rdata:0000000140066D32                 db 0CEh
+.rdata:0000000140066D33                 db 0CFh
+.rdata:0000000140066D34                 db  49h ; I
+.rdata:0000000140066D35                 db  4Eh ; N
+.rdata:0000000140066D36                 db  4Fh ; O
+.rdata:0000000140066D37                 db  57h ; W
+.rdata:0000000140066D38                 db  59h ; Y
+.rdata:0000000140066D39                 db  5Eh ; ^
+.rdata:0000000140066D3A                 db  5Fh ; _
+.rdata:0000000140066D3B                 db  89h
+.rdata:0000000140066D3C                 db  8Eh
+.rdata:0000000140066D3D                 db  8Fh
+.rdata:0000000140066D3E                 db 0B1h
+.rdata:0000000140066D3F                 db 0B6h
+.rdata:0000000140066D40                 db 0B7h
+.rdata:0000000140066D41                 db 0BFh
+.rdata:0000000140066D42                 db 0C1h
+.rdata:0000000140066D43                 db 0C6h
+.rdata:0000000140066D44                 db 0C7h
+.rdata:0000000140066D45                 db 0D7h
+.rdata:0000000140066D46                 db  11h
+.rdata:0000000140066D47                 db  16h
+.rdata:0000000140066D48                 db  17h
+.rdata:0000000140066D49                 db  5Bh ; [
+.rdata:0000000140066D4A                 db  5Ch ; \
+.rdata:0000000140066D4B                 db 0F6h
+.rdata:0000000140066D4C                 db 0F7h
+.rdata:0000000140066D4D                 db 0FEh
+.rdata:0000000140066D4E                 db 0FFh
+.rdata:0000000140066D4F                 db  80h
+.rdata:0000000140066D50                 db  6Dh ; m
+.rdata:0000000140066D51                 db  71h ; q
+.rdata:0000000140066D52                 db 0DEh
+.rdata:0000000140066D53                 db 0DFh
+.rdata:0000000140066D54                 db  0Eh
+.rdata:0000000140066D55                 db  1Fh
+.rdata:0000000140066D56                 db  6Eh ; n
+.rdata:0000000140066D57                 db  6Fh ; o
+.rdata:0000000140066D58                 db  1Ch
+.rdata:0000000140066D59                 db  1Dh
+.rdata:0000000140066D5A                 db  5Fh ; _
+.rdata:0000000140066D5B                 db  7Dh ; }
+.rdata:0000000140066D5C                 db  7Eh ; ~
+.rdata:0000000140066D5D                 db 0AEh
+.rdata:0000000140066D5E                 db 0AFh
+.rdata:0000000140066D5F                 db  7Fh ; 
+.rdata:0000000140066D60                 db 0BBh
+.rdata:0000000140066D61                 db 0BCh
+.rdata:0000000140066D62                 db  16h
+.rdata:0000000140066D63                 db  17h
+.rdata:0000000140066D64                 db  1Eh
+.rdata:0000000140066D65                 db  1Fh
+.rdata:0000000140066D66                 db  46h ; F
+.rdata:0000000140066D67                 db  47h ; G
+.rdata:0000000140066D68                 db  4Eh ; N
+.rdata:0000000140066D69                 db  4Fh ; O
+.rdata:0000000140066D6A                 db  58h ; X
+.rdata:0000000140066D6B                 db  5Ah ; Z
+.rdata:0000000140066D6C                 db  5Ch ; \
+.rdata:0000000140066D6D                 db  5Eh ; ^
+.rdata:0000000140066D6E                 db  7Eh ; ~
+.rdata:0000000140066D6F                 db  7Fh ; 
+.rdata:0000000140066D70                 db 0B5h
+.rdata:0000000140066D71                 db 0C5h
+.rdata:0000000140066D72                 db 0D4h
+.rdata:0000000140066D73                 db 0D5h
+.rdata:0000000140066D74                 db 0DCh
+.rdata:0000000140066D75                 db 0F0h
+.rdata:0000000140066D76                 db 0F1h
+.rdata:0000000140066D77                 db 0F5h
+.rdata:0000000140066D78                 db  72h ; r
+.rdata:0000000140066D79                 db  73h ; s
+.rdata:0000000140066D7A                 db  8Fh
+.rdata:0000000140066D7B                 db  74h ; t
+.rdata:0000000140066D7C                 db  75h ; u
+.rdata:0000000140066D7D                 db  96h
+.rdata:0000000140066D7E                 db  26h ; &
+.rdata:0000000140066D7F                 db  2Eh ; .
+.rdata:0000000140066D80                 db  2Fh ; /
+.rdata:0000000140066D81                 db 0A7h
+.rdata:0000000140066D82                 db 0AFh
+.rdata:0000000140066D83                 db 0B7h
+.rdata:0000000140066D84                 db 0BFh
+.rdata:0000000140066D85                 db 0C7h
+.rdata:0000000140066D86                 db 0CFh
+.rdata:0000000140066D87                 db 0D7h
+.rdata:0000000140066D88                 db 0DFh
+.rdata:0000000140066D89                 db  9Ah
+.rdata:0000000140066D8A                 db    0
+.rdata:0000000140066D8B                 db  40h ; @
+.rdata:0000000140066D8C                 db  97h
+.rdata:0000000140066D8D                 db  98h
+.rdata:0000000140066D8E                 db  30h ; 0
+.rdata:0000000140066D8F                 db  8Fh
+.rdata:0000000140066D90                 db  1Fh
+.rdata:0000000140066D91                 db 0D2h
+.rdata:0000000140066D92                 db 0D4h
+.rdata:0000000140066D93                 db 0CEh
+.rdata:0000000140066D94                 db 0FFh
+.rdata:0000000140066D95                 db  4Eh ; N
+.rdata:0000000140066D96                 db  4Fh ; O
+.rdata:0000000140066D97                 db  5Ah ; Z
+.rdata:0000000140066D98                 db  5Bh ; [
+.rdata:0000000140066D99                 db    7
+.rdata:0000000140066D9A                 db    8
+.rdata:0000000140066D9B                 db  0Fh
+.rdata:0000000140066D9C                 db  10h
+.rdata:0000000140066D9D                 db  27h ; '
+.rdata:0000000140066D9E                 db  2Fh ; /
+.rdata:0000000140066D9F                 db 0EEh
+.rdata:0000000140066DA0                 db 0EFh
+.rdata:0000000140066DA1                 db  6Eh ; n
+.rdata:0000000140066DA2                 db  6Fh ; o
+.rdata:0000000140066DA3                 db  37h ; 7
+.rdata:0000000140066DA4                 db  3Dh ; =
+.rdata:0000000140066DA5                 db  3Fh ; ?
+.rdata:0000000140066DA6                 db  42h ; B
+.rdata:0000000140066DA7                 db  45h ; E
+.rdata:0000000140066DA8                 db  90h
+.rdata:0000000140066DA9                 db  91h
+.rdata:0000000140066DAA                 db  53h ; S
+.rdata:0000000140066DAB                 db  67h ; g
+.rdata:0000000140066DAC                 db  75h ; u
+.rdata:0000000140066DAD                 db 0C8h
+.rdata:0000000140066DAE                 db 0C9h
+.rdata:0000000140066DAF                 db 0D0h
+.rdata:0000000140066DB0                 db 0D1h
+.rdata:0000000140066DB1                 db 0D8h
+.rdata:0000000140066DB2                 db 0D9h
+.rdata:0000000140066DB3                 db 0E7h
+.rdata:0000000140066DB4                 db 0FEh
+.rdata:0000000140066DB5                 db 0FFh
+.rdata:0000000140066DB6 unk_140066DB6   db    0                 ; DATA XREF: sub_1400594B0+26↑o
+.rdata:0000000140066DB7                 db  20h
+.rdata:0000000140066DB8                 db  5Fh ; _
+.rdata:0000000140066DB9                 db  22h ; "
+.rdata:0000000140066DBA                 db  82h
+.rdata:0000000140066DBB                 db 0DFh
+.rdata:0000000140066DBC                 db    4
+.rdata:0000000140066DBD                 db  82h
+.rdata:0000000140066DBE                 db  44h ; D
+.rdata:0000000140066DBF                 db    8
+.rdata:0000000140066DC0                 db  1Bh
+.rdata:0000000140066DC1                 db    4
+.rdata:0000000140066DC2                 db    6
+.rdata:0000000140066DC3                 db  11h
+.rdata:0000000140066DC4                 db  81h
+.rdata:0000000140066DC5                 db 0ACh
+.rdata:0000000140066DC6                 db  0Eh
+.rdata:0000000140066DC7                 db  80h
+.rdata:0000000140066DC8                 db 0ABh
+.rdata:0000000140066DC9                 db    5
+.rdata:0000000140066DCA                 db  1Fh
+.rdata:0000000140066DCB                 db    9
+.rdata:0000000140066DCC                 db  81h
+.rdata:0000000140066DCD                 db  1Bh
+.rdata:0000000140066DCE                 db    3
+.rdata:0000000140066DCF                 db  19h
+.rdata:0000000140066DD0                 db    8
+.rdata:0000000140066DD1                 db    1
+.rdata:0000000140066DD2                 db    4
+.rdata:0000000140066DD3                 db  2Fh ; /
+.rdata:0000000140066DD4                 db    4
+.rdata:0000000140066DD5                 db  34h ; 4
+.rdata:0000000140066DD6                 db    4
+.rdata:0000000140066DD7                 db    7
+.rdata:0000000140066DD8                 db    3
+.rdata:0000000140066DD9                 db    1
+.rdata:0000000140066DDA                 db    7
+.rdata:0000000140066DDB                 db    6
+.rdata:0000000140066DDC                 db    7
+.rdata:0000000140066DDD                 db  11h
+.rdata:0000000140066DDE                 db  0Ah
+.rdata:0000000140066DDF                 db  50h ; P
+.rdata:0000000140066DE0                 db  0Fh
+.rdata:0000000140066DE1                 db  12h
+.rdata:0000000140066DE2                 db    7
+.rdata:0000000140066DE3                 db  55h ; U
+.rdata:0000000140066DE4                 db    7
+.rdata:0000000140066DE5                 db    3
+.rdata:0000000140066DE6                 db    4
+.rdata:0000000140066DE7                 db  1Ch
+.rdata:0000000140066DE8                 db  0Ah
+.rdata:0000000140066DE9                 db    9
+.rdata:0000000140066DEA                 db    3
+.rdata:0000000140066DEB                 db    8
+.rdata:0000000140066DEC                 db    3
+.rdata:0000000140066DED                 db    7
+.rdata:0000000140066DEE                 db    3
+.rdata:0000000140066DEF                 db    2
+.rdata:0000000140066DF0                 db    3
+.rdata:0000000140066DF1                 db    3
+.rdata:0000000140066DF2                 db    3
+.rdata:0000000140066DF3                 db  0Ch
+.rdata:0000000140066DF4                 db    4
+.rdata:0000000140066DF5                 db    5
+.rdata:0000000140066DF6                 db    3
+.rdata:0000000140066DF7                 db  0Bh
+.rdata:0000000140066DF8                 db    6
+.rdata:0000000140066DF9                 db    1
+.rdata:0000000140066DFA                 db  0Eh
+.rdata:0000000140066DFB                 db  15h
+.rdata:0000000140066DFC                 db    5
+.rdata:0000000140066DFD                 db  4Eh ; N
+.rdata:0000000140066DFE                 db    7
+.rdata:0000000140066DFF                 db  1Bh
+.rdata:0000000140066E00                 db    7
+.rdata:0000000140066E01                 db  57h ; W
+.rdata:0000000140066E02                 db    7
+.rdata:0000000140066E03                 db    2
+.rdata:0000000140066E04                 db    6
+.rdata:0000000140066E05                 db  17h
+.rdata:0000000140066E06                 db  0Ch
+.rdata:0000000140066E07                 db  50h ; P
+.rdata:0000000140066E08                 db    4
+.rdata:0000000140066E09                 db  43h ; C
+.rdata:0000000140066E0A                 db    3
+.rdata:0000000140066E0B                 db  2Dh ; -
+.rdata:0000000140066E0C                 db    3
+.rdata:0000000140066E0D                 db    1
+.rdata:0000000140066E0E                 db    4
+.rdata:0000000140066E0F                 db  11h
+.rdata:0000000140066E10                 db    6
+.rdata:0000000140066E11                 db  0Fh
+.rdata:0000000140066E12                 db  0Ch
+.rdata:0000000140066E13                 db  3Ah ; :
+.rdata:0000000140066E14                 db    4
+.rdata:0000000140066E15                 db  1Dh
+.rdata:0000000140066E16                 db  25h ; %
+.rdata:0000000140066E17                 db  5Fh ; _
+.rdata:0000000140066E18                 db  20h
+.rdata:0000000140066E19                 db  6Dh ; m
+.rdata:0000000140066E1A                 db    4
+.rdata:0000000140066E1B                 db  6Ah ; j
+.rdata:0000000140066E1C                 db  25h ; %
+.rdata:0000000140066E1D                 db  80h
+.rdata:0000000140066E1E                 db 0C8h
+.rdata:0000000140066E1F                 db    5
+.rdata:0000000140066E20                 db  82h
+.rdata:0000000140066E21                 db 0B0h
+.rdata:0000000140066E22                 db    3
+.rdata:0000000140066E23                 db  1Ah
+.rdata:0000000140066E24                 db    6
+.rdata:0000000140066E25                 db  82h
+.rdata:0000000140066E26                 db 0FDh
+.rdata:0000000140066E27                 db    3
+.rdata:0000000140066E28                 db  59h ; Y
+.rdata:0000000140066E29                 db    7
+.rdata:0000000140066E2A                 db  16h
+.rdata:0000000140066E2B                 db    9
+.rdata:0000000140066E2C                 db  18h
+.rdata:0000000140066E2D                 db    9
+.rdata:0000000140066E2E                 db  14h
+.rdata:0000000140066E2F                 db  0Ch
+.rdata:0000000140066E30                 db  14h
+.rdata:0000000140066E31                 db  0Ch
+.rdata:0000000140066E32                 db  6Ah ; j
+.rdata:0000000140066E33                 db    6
+.rdata:0000000140066E34                 db  0Ah
+.rdata:0000000140066E35                 db    6
+.rdata:0000000140066E36                 db  1Ah
+.rdata:0000000140066E37                 db    6
+.rdata:0000000140066E38                 db  59h ; Y
+.rdata:0000000140066E39                 db    7
+.rdata:0000000140066E3A                 db  2Bh ; +
+.rdata:0000000140066E3B                 db    5
+.rdata:0000000140066E3C                 db  46h ; F
+.rdata:0000000140066E3D                 db  0Ah
+.rdata:0000000140066E3E                 db  2Ch ; ,
+.rdata:0000000140066E3F                 db    4
+.rdata:0000000140066E40                 db  0Ch
+.rdata:0000000140066E41                 db    4
+.rdata:0000000140066E42                 db    1
+.rdata:0000000140066E43                 db    3
+.rdata:0000000140066E44                 db  31h ; 1
+.rdata:0000000140066E45                 db  0Bh
+.rdata:0000000140066E46                 db  2Ch ; ,
+.rdata:0000000140066E47                 db    4
+.rdata:0000000140066E48                 db  1Ah
+.rdata:0000000140066E49                 db    6
+.rdata:0000000140066E4A                 db  0Bh
+.rdata:0000000140066E4B                 db    3
+.rdata:0000000140066E4C                 db  80h
+.rdata:0000000140066E4D                 db 0ACh
+.rdata:0000000140066E4E                 db    6
+.rdata:0000000140066E4F                 db  0Ah
+.rdata:0000000140066E50                 db    6
+.rdata:0000000140066E51                 db  2Fh ; /
+.rdata:0000000140066E52                 db  31h ; 1
+.rdata:0000000140066E53                 db  4Dh ; M
+.rdata:0000000140066E54                 db    3
+.rdata:0000000140066E55                 db  80h
+.rdata:0000000140066E56                 db 0A4h
+.rdata:0000000140066E57                 db    8
+.rdata:0000000140066E58                 db  3Ch ; <
+.rdata:0000000140066E59                 db    3
+.rdata:0000000140066E5A                 db  0Fh
+.rdata:0000000140066E5B                 db    3
+.rdata:0000000140066E5C                 db  3Ch ; <
+.rdata:0000000140066E5D                 db    7
+.rdata:0000000140066E5E                 db  38h ; 8
+.rdata:0000000140066E5F                 db    8
+.rdata:0000000140066E60                 db  2Bh ; +
+.rdata:0000000140066E61                 db    5
+.rdata:0000000140066E62                 db  82h
+.rdata:0000000140066E63                 db 0FFh
+.rdata:0000000140066E64                 db  11h
+.rdata:0000000140066E65                 db  18h
+.rdata:0000000140066E66                 db    8
+.rdata:0000000140066E67                 db  2Fh ; /
+.rdata:0000000140066E68                 db  11h
+.rdata:0000000140066E69                 db  2Dh ; -
+.rdata:0000000140066E6A                 db    3
+.rdata:0000000140066E6B                 db  21h ; !
+.rdata:0000000140066E6C                 db  0Fh
+.rdata:0000000140066E6D                 db  21h ; !
+.rdata:0000000140066E6E                 db  0Fh
+.rdata:0000000140066E6F                 db  80h
+.rdata:0000000140066E70                 db  8Ch
+.rdata:0000000140066E71                 db    4
+.rdata:0000000140066E72                 db  82h
+.rdata:0000000140066E73                 db  97h
+.rdata:0000000140066E74                 db  19h
+.rdata:0000000140066E75                 db  0Bh
+.rdata:0000000140066E76                 db  15h
+.rdata:0000000140066E77                 db  88h
+.rdata:0000000140066E78                 db  94h
+.rdata:0000000140066E79                 db    5
+.rdata:0000000140066E7A                 db  2Fh ; /
+.rdata:0000000140066E7B                 db    5
+.rdata:0000000140066E7C                 db  3Bh ; ;
+.rdata:0000000140066E7D                 db    7
+.rdata:0000000140066E7E                 db    2
+.rdata:0000000140066E7F                 db  0Eh
+.rdata:0000000140066E80                 db  18h
+.rdata:0000000140066E81                 db    9
+.rdata:0000000140066E82                 db  80h
+.rdata:0000000140066E83                 db 0BEh
+.rdata:0000000140066E84                 db  22h ; "
+.rdata:0000000140066E85                 db  74h ; t
+.rdata:0000000140066E86                 db  0Ch
+.rdata:0000000140066E87                 db  80h
+.rdata:0000000140066E88                 db 0D6h
+.rdata:0000000140066E89                 db  1Ah
+.rdata:0000000140066E8A                 db  81h
+.rdata:0000000140066E8B                 db  10h
+.rdata:0000000140066E8C                 db    5
+.rdata:0000000140066E8D                 db  80h
+.rdata:0000000140066E8E                 db 0DFh
+.rdata:0000000140066E8F                 db  0Bh
+.rdata:0000000140066E90                 db 0F2h
+.rdata:0000000140066E91                 db  9Eh
+.rdata:0000000140066E92                 db    3
+.rdata:0000000140066E93                 db  37h ; 7
+.rdata:0000000140066E94                 db    9
+.rdata:0000000140066E95                 db  81h
+.rdata:0000000140066E96                 db  5Ch ; \
+.rdata:0000000140066E97                 db  14h
+.rdata:0000000140066E98                 db  80h
+.rdata:0000000140066E99                 db 0B8h
+.rdata:0000000140066E9A                 db    8
+.rdata:0000000140066E9B                 db  80h
+.rdata:0000000140066E9C                 db 0CBh
+.rdata:0000000140066E9D                 db    5
+.rdata:0000000140066E9E                 db  0Ah
+.rdata:0000000140066E9F                 db  18h
+.rdata:0000000140066EA0                 db  3Bh ; ;
+.rdata:0000000140066EA1                 db    3
+.rdata:0000000140066EA2                 db  0Ah
+.rdata:0000000140066EA3                 db    6
+.rdata:0000000140066EA4                 db  38h ; 8
+.rdata:0000000140066EA5                 db    8
+.rdata:0000000140066EA6                 db  46h ; F
+.rdata:0000000140066EA7                 db    8
+.rdata:0000000140066EA8                 db  0Ch
+.rdata:0000000140066EA9                 db    6
+.rdata:0000000140066EAA                 db  74h ; t
+.rdata:0000000140066EAB                 db  0Bh
+.rdata:0000000140066EAC                 db  1Eh
+.rdata:0000000140066EAD                 db    3
+.rdata:0000000140066EAE                 db  5Ah ; Z
+.rdata:0000000140066EAF                 db    4
+.rdata:0000000140066EB0                 db  59h ; Y
+.rdata:0000000140066EB1                 db    9
+.rdata:0000000140066EB2                 db  80h
+.rdata:0000000140066EB3                 db  83h
+.rdata:0000000140066EB4                 db  18h
+.rdata:0000000140066EB5                 db  1Ch
+.rdata:0000000140066EB6                 db  0Ah
+.rdata:0000000140066EB7                 db  16h
+.rdata:0000000140066EB8                 db    9
+.rdata:0000000140066EB9                 db  4Ch ; L
+.rdata:0000000140066EBA                 db    4
+.rdata:0000000140066EBB                 db  80h
+.rdata:0000000140066EBC                 db  8Ah
+.rdata:0000000140066EBD                 db    6
+.rdata:0000000140066EBE                 db 0ABh
+.rdata:0000000140066EBF                 db 0A4h
+.rdata:0000000140066EC0                 db  0Ch
+.rdata:0000000140066EC1                 db  17h
+.rdata:0000000140066EC2                 db    4
+.rdata:0000000140066EC3                 db  31h ; 1
+.rdata:0000000140066EC4                 db 0A1h
+.rdata:0000000140066EC5                 db    4
+.rdata:0000000140066EC6                 db  81h
+.rdata:0000000140066EC7                 db 0DAh
+.rdata:0000000140066EC8                 db  26h ; &
+.rdata:0000000140066EC9                 db    7
+.rdata:0000000140066ECA                 db  0Ch
+.rdata:0000000140066ECB                 db    5
+.rdata:0000000140066ECC                 db    5
+.rdata:0000000140066ECD                 db  80h
+.rdata:0000000140066ECE                 db 0A6h
+.rdata:0000000140066ECF                 db  10h
+.rdata:0000000140066ED0                 db  81h
+.rdata:0000000140066ED1                 db 0F5h
+.rdata:0000000140066ED2                 db    7
+.rdata:0000000140066ED3                 db    1
+.rdata:0000000140066ED4                 db  20h
+.rdata:0000000140066ED5                 db  2Ah ; *
+.rdata:0000000140066ED6                 db    6
+.rdata:0000000140066ED7                 db  4Ch ; L
+.rdata:0000000140066ED8                 db    4
+.rdata:0000000140066ED9                 db  80h
+.rdata:0000000140066EDA                 db  8Dh
+.rdata:0000000140066EDB                 db    4
+.rdata:0000000140066EDC                 db  80h
+.rdata:0000000140066EDD                 db 0BEh
+.rdata:0000000140066EDE                 db    3
+.rdata:0000000140066EDF                 db  1Bh
+.rdata:0000000140066EE0                 db    3
+.rdata:0000000140066EE1                 db  0Fh
+.rdata:0000000140066EE2                 db  0Dh
+.rdata:0000000140066EE3 aLibraryCoreSrc_4 db 'library\core\src\unicode\unicode_data.rs',0
+.rdata:0000000140066EE3                                         ; DATA XREF: .rdata:off_140066F10↓o
+.rdata:0000000140066EE3                                         ; .rdata:off_140066F28↓o
+.rdata:0000000140066F0C                 align 10h
