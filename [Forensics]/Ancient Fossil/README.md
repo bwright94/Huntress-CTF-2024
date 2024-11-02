@@ -1,6 +1,6 @@
 ![ancient-fossil-ss1.png](./ancient-fossil-ss1.png)
 
-Ancient Fossil - Forensics  
+# Ancient Fossil: Forensics  
 
 Author: @JohnHammond  
 
@@ -8,19 +8,17 @@ All things are lost to time...
 
 Download the file(s) below.  
 Attachments:   
-
-ancient.fossil  
-
-
+```ancient.fossil```
 
 At first I thought the file was just a normal .SQLITE file according to Detect-It-Easy, so I opened it in an SQLite Viewer but was quickly overwhelmed.  
 Noticed lots of base64 encoding, tried decoding but all unreadable.  
 A Google search of "fossil" and "sqlite" reveals the proper method.  
 
-$ sudo apt install fossil  
-$ fossil open ancient.fossil  
+> $ sudo apt install fossil
 
-```
+> $ fossil open ancient.fossil  
+
+```bash
 └─$ fossil timeline       
 === 2024-10-16 ===
 20:57:45 [e410648e20] *CURRENT* MTI5NDdmZTgzNTFkNTJkOGUxNWVlM2FhMzU1NDcyNTEK (user: kali tags: trunk)
@@ -43,11 +41,11 @@ Focusing on decoding the base64 content of every file:
 
 Use fossil timeline -n 0 to show every line (403 commits)  
 
-$ fossil time -n 0 | cut -d " " -f2 | tac > fossil_commits.txt  
+> $ fossil time -n 0 | cut -d " " -f2 | tac > fossil_commits.txt  
 Cleaned up in text editor.  
 
 List of commits to iterate through:  
-```
+```bash
 a6df33fb5e
 47fcb20ec9
 6fa037e021
@@ -58,7 +56,7 @@ e410648e20
 Final solve script: fossil_auto_contents_solve.py  
 Iterates through list, decoding base64 contents.  
 
-```
+```bash
 [...]
 Checking out commit: a3c1ff3113
 Output from fossil co a3c1ff3113: NmY3ODc3YTcxODdkYmFkMjdiYzJiZWY3NDI0N2U3MTYK
@@ -88,7 +86,8 @@ UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 2: invalid 
 
 Error occurs on one file because the content is already plaintext.  
 
-> $ cat NDQwMDE1MDZlY2ViMWJmZjRlNjI2M2M4OTU5YjBlMzUK              
+> $ cat NDQwMDE1MDZlY2ViMWJmZjRlNjI2M2M4OTU5YjBlMzUK
+        
 > flag{2ed33f365669ea9f10b1a4ea4566fe8c}
 
 In hindsight, you can just iterate through every commit and cat the files since the flag was in plaintext.
