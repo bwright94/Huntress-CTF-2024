@@ -1,6 +1,6 @@
 ![knights-quest-ss1.png](knights-quest-ss1.png)
 
-Knight's Quest - Reverse Engineering
+# Knight's Quest: Reverse Engineering  
 
 Author: @HuskyHacks
 
@@ -89,14 +89,18 @@ Messages:
 
 Open IDA Free or Ghidra.  
 Find logic that deals with what happens after player inputs 'attack' or 'defend'.  
-See knightsquest_round_playerTurn.  
+See ```knightsquest_round_playerTurn```.  
 
 Logic to determine what happens next after player action depends on a single line:  
-> jg     loc_498093 ; jump if greater than  
+```assembly 
+jg     loc_498093 ; jump if greater than
+```
 Will jump to further round logic or to "You have defeated" function.  
 
 Patch line to:  
-> jle    loc_498093 ; jump if less than or eq  
+```assembly
+jle    loc_498093 ; jump if less than or eq
+```
 Force the jump directly to "You have defeated" regardless of player input.  
 
 Assemble the patch and play game again.  
@@ -123,7 +127,7 @@ Your flag submission password is: hmafgAhAalqmQABBOAZtP3OWFegsQDAB
 Press enter to exit the game...
 ```
 
-Send password to the server according to instructions for the flag.  
+> Send password to the server according to instructions for the flag.  
 
 ```
 $ curl -X POST -H "Content-Type: application/json" -d '{"password":"hmafgAhAalqmQABBOAZtP3OWFegsQDAB"}' http://challenge.ctf.games:32344//submit 
