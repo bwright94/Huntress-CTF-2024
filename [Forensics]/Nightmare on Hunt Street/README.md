@@ -1,3 +1,7 @@
+![nightmare-on-hunt-street-ss1.png](nightmare-on-hunt-street-ss1.png)
+![nightmare-on-hunt-street-ss2-3.png](nightmare-on-hunt-street-ss2-3.png)
+![nightmare-on-hunt-street-ss4-5.png](nightmare-on-hunt-street-ss4-5.png)
+
 Nightmare on Hunt Street Parts 1 - 5
 
 Authors: Austin Worline, Jose Oregon, and Adrian Garcia
