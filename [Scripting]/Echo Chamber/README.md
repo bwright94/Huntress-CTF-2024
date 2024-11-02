@@ -1,6 +1,6 @@
 ![echo-chamber-ss1.png](echo-chamber-ss1.png)
 
-# Echo Chamber
+# Echo Chamber: Reverse Engineering  
 
 ```echo_chamber.pcap```
 
