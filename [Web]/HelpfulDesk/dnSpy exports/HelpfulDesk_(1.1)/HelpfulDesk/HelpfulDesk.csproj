@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6FFE1D25-4574-4097-8AF0-C6021169A704}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HelpfulDesk</RootNamespace>
+    <AssemblyName>HelpfulDesk</AssemblyName>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <TargetFrameworkIdentifier>.NETCoreApp</TargetFrameworkIdentifier>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <StartupObject>Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore" />
+    <Reference Include="Microsoft.AspNetCore.Authorization.Policy" />
+    <Reference Include="Microsoft.AspNetCore.Diagnostics" />
+    <Reference Include="Microsoft.AspNetCore.Hosting.Abstractions" />
+    <Reference Include="Microsoft.AspNetCore.Html.Abstractions" />
+    <Reference Include="Microsoft.AspNetCore.Http" />
+    <Reference Include="Microsoft.AspNetCore.Http.Abstractions" />
+    <Reference Include="Microsoft.AspNetCore.Http.Extensions" />
+    <Reference Include="Microsoft.AspNetCore.Http.Features" />
+    <Reference Include="Microsoft.AspNetCore.HttpsPolicy" />
+    <Reference Include="Microsoft.AspNetCore.Mvc" />
+    <Reference Include="Microsoft.AspNetCore.Mvc.Abstractions" />
+    <Reference Include="Microsoft.AspNetCore.Mvc.Core" />
+    <Reference Include="Microsoft.AspNetCore.Mvc.Razor" />
+    <Reference Include="Microsoft.AspNetCore.Mvc.TagHelpers" />
+    <Reference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" />
+    <Reference Include="Microsoft.AspNetCore.Razor" />
+    <Reference Include="Microsoft.AspNetCore.Razor.Runtime" />
+    <Reference Include="Microsoft.AspNetCore.Routing" />
+    <Reference Include="Microsoft.AspNetCore.Session" />
+    <Reference Include="Microsoft.AspNetCore.StaticFiles" />
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\Microsoft.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Memory" />
+    <Reference Include="Microsoft.Extensions.Configuration.UserSecrets" />
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+    <Reference Include="Microsoft.Extensions.FileProviders.Abstractions" />
+    <Reference Include="Microsoft.Extensions.Hosting.Abstractions" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\source code\extracted\helpfuldesk-1.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Loader">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Runtime.Loader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json">
+      <HintPath>..\..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.28\System.Text.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Dashboard_ClientFiles.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Dashboard_Index.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Home_Index.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Home_Privacy.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Security_Bulletin.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Setup_SetupComplete.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Setup_SetupWizard.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Shared_Error.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Shared_Index.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Shared__Layout.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views_Shared__ValidationScriptsPartial.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views__ViewImports.cs" />
+    <Compile Include="AspNetCoreGeneratedDocument\Views__ViewStart.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\DashboardController.cs" />
+    <Compile Include="Controllers\DownloadsController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SecurityController.cs" />
+    <Compile Include="Controllers\SetupController.cs" />
+    <Compile Include="Microsoft\CodeAnalysis\EmbeddedAttribute.cs" />
+    <Compile Include="Models\Client.cs" />
+    <Compile Include="Models\ErrorViewModel.cs" />
+    <Compile Include="Models\FileItem.cs" />
+    <Compile Include="Models\SecurityBulletin.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AuthenticationService.cs" />
+    <Compile Include="Services\ClientService.cs" />
+    <Compile Include="System\Runtime\CompilerServices\NullableAttribute.cs" />
+    <Compile Include="System\Runtime\CompilerServices\NullableContextAttribute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
