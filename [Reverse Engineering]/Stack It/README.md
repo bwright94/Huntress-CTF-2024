@@ -1,3 +1,5 @@
+![stack-it-ss1.png](stack-it-ss1.png)
+
 Solve by opening a disassembler, setting a breakpoint, and viewing the registers.  
 ```
 .data:0804A02E unk_804A02E db  31h ; 1 ; DATA XREF: start+29↑o
