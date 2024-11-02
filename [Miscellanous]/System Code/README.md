@@ -1,10 +1,12 @@
+![system-code-ss1.png](system-code-ss1.png)
+
 # System Code: Miscellaneous
 
 Author: Truman Kain
 
 Follow the white rabbit.
 
-NOTE: Bruteforce is permitted for this challenge instance if you feel it is necessary.
+```NOTE: Bruteforce is permitted for this challenge instance if you feel it is necessary.```
 
 Press the Start button on the top-right to begin this challenge.  
 Connect with:  
@@ -12,16 +14,16 @@ http://challenge.ctf.games:30512
 
 ## Solved by traceuse  
 
-Open website, view source code, site requires some input for the flag, "/enter=\<input>".  
+Open website, view source code, site requires some input for the flag, ```/enter=<input>```.  
 
-Notice "backupGlyphsTwr" within config.js, connect "Twr" to "The white rabbit".  
+Notice ```backupGlyphsTwr``` within ```config.js```, link ```"Twr"``` to ```"The white rabbit"```.  
 
-Backup glyphs are ["a", "b", "c", "d", "e", "f"], fuzz the input using abcdef dictionary.  
+Backup glyphs are ```["a", "b", "c", "d", "e", "f"]```, fuzz the input using abcdef chars.  
 
 ```
-$ crunch 6 6 abcdef -o system-code-abcdef.txt  
+> $ crunch 6 6 abcdef -o system-code-abcdef.txt  
 
-$ ffuf -c -w system-code-abcdef.txt -u http://challenge.ctf.games:30512/enter=FUZZ -fs 60 -v -r  
+> $ ffuf -c -w system-code-abcdef.txt -u http://challenge.ctf.games:30512/enter=FUZZ -fs 60 -v -r  
 
         /'___\  /'___\           /'___\       
        /\ \__/ /\ \__/  __  __  /\ \__/       
