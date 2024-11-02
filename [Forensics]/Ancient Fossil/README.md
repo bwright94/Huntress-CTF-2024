@@ -1,3 +1,5 @@
+![ancient-fossil-ss1.png](./ancient-fossil-ss1.png)
+
 Ancient Fossil - Forensics  
 
 Author: @JohnHammond  
