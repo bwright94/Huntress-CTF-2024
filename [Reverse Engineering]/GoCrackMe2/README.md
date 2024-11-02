@@ -1,3 +1,5 @@
+![gocrackme2-ss1.png](gocrackme2-ss1.png)
+
 # GoCrackMe2: Reverse Engineering
 
 Author: @HuskyHacks
