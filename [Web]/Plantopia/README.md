@@ -1,6 +1,6 @@
 ![plantopia-ss1.png](./screenshots/plantopia-ss1.png)
 
-# Plantopia
+# Plantopia: Web  
 
 > Login page
 
